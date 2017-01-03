@@ -1,30 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 2, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I spent a lot of the time working on the CSS, and I realized the vertical layout of the numbers display on top of the keypad is probably better UX-wise, so I might change the "desktop" view to look like that as well later on.  
+When it came time to figure out how to actually get my calculator to function, I felt like HTML data attributes would work somehow, but I didn't quite know how. Rewatched part of the drum kit tutorial of JavaScript30 and Googled vanilla JavaScript things to piece together an ugly piece of code that gets the numbers and operations to show up in the display when the buttons are clicked.  
+Installed Hub so I can create Github repos from command line.  
+*tl;dr:* Tweaked CSS for narrower viewport, got numbers and operations to display when clicked. Exported code from Codepen and pushed to Github.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Vanilla JS is a little tough because I'm not used to it. I'm confused about what to do with the scss & css files I got from exporting from Codepen, about precompiling, and about what to include/exclude from a Github repo. 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Calculator App](https://github.com/tymeart/calculator/commit/9c7371ffdb9ea4ab22512953529bad558f57d1fa)
