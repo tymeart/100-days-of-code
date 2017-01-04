@@ -16,6 +16,6 @@ Installed Hub so I can create Github repos from command line.
 
 **Today's Progress**: After a lot of Googling, trying to figure out what to use to compile my Sass files, I installed and configured Grunt. Refactored the JS to display spaces between the clicked numbers and operations. Started trying to figure out how to implement the AC and CE buttons.  
 
-**Thoughts**: I was pretty pooped after finishing getting Grunt set up, but I'm glad I pushed through and did some actual coding.  
+**Thoughts**: I was pretty pooped after getting Grunt set up, but I'm glad I pushed through and did some actual coding.  
 
 **Link to work:** [Calculator App](https://github.com/tymeart/calculator/commit/c9986275bd029ccee7a353d7039596f31bc69616)  
