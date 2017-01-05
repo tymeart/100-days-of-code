@@ -14,8 +14,16 @@ Installed Hub so I can create Github repos from command line.
 
 ### Day 2: January 3rd, 2017  
 
-**Today's Progress**: After a lot of Googling, trying to figure out what to use to compile my Sass files, I installed and configured Grunt. Refactored the JS to display spaces between the clicked numbers and operations. Started trying to figure out how to implement the AC and CE buttons.  
+**Today's Progress:** After a lot of Googling, trying to figure out what to use to compile my Sass files, I installed and configured Grunt. Refactored the JS to display spaces between the clicked numbers and operations. Started trying to figure out how to implement the AC and CE buttons.  
 
-**Thoughts**: I was pretty pooped after getting Grunt set up, but I'm glad I pushed through and did some actual coding.  
+**Thoughts:** I was pretty pooped after getting Grunt set up, but I'm glad I pushed through and did some actual coding.  
 
 **Link to work:** [Calculator App](https://github.com/tymeart/calculator/commit/c9986275bd029ccee7a353d7039596f31bc69616)  
+
+### Day 3: January 4th, 2017
+
+**Today's Progress:** I got the AC button to work and added a transition to the buttons so the background color changes when clicked.
+
+**Thoughts:** The logic of clearing the div when the AC button is clicked didn't take as long to figure out as I thought it would. Thinking about the CE button, though, I realize I need to add some way of keeping track of previously entered numbers. I feel like overall I need to step back and think more deeply about the logic behind the calculator instead of doing it piece by piece.
+
+**Link to work:** [Calculator App](https://github.com/tymeart/calculator/commit/dafcf8b597212d1c0d08fa5efb0252c7dd80c1b5)
