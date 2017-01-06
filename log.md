@@ -27,3 +27,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** The logic of clearing the div when the AC button is clicked didn't take as long to figure out as I thought it would. Thinking about the CE button, though, I realize I need to add some way of keeping track of previously entered numbers. I feel like overall I need to step back and think more deeply about the logic behind the calculator instead of doing it piece by piece.
 
 **Link to work:** [Calculator App](https://github.com/tymeart/calculator/commit/dafcf8b597212d1c0d08fa5efb0252c7dd80c1b5)
+
+### Day 4: January 5th, 2017
+
+**Today's Progress:** Tweaked code to allow multi-digit numbers to be entered. Tried to figure out how to refer to the previously clicked button.
+
+**Thoughts:** During the past 2 days, it's been so tough to get started. Leaving myself comments about the things to work on next helps a little.
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/2c11c9aca23515c35d17dbd665c516eea87080ed)
