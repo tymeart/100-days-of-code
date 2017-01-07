@@ -35,3 +35,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** During the past 2 days, it's been so tough to get started. Leaving myself comments about the things to work on next helps a little.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/2c11c9aca23515c35d17dbd665c516eea87080ed)
+
+### Day 5: January 6th, 2017
+
+**Today's Progress:** Changed the way I'm keeping track of and displaying inputs.
+
+**Thoughts:** I was so stuck that I watched a tutorial to get a hint for how to keep track of the inputs/outputs. I feel guilty, but I had no idea how I should set up my calculator. :< I was too focused on little parts rather than the whole, but I guess I did learn some things about nodes and vanilla JS from doing things this way.
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/5b2e9858bf64a5cc75cf085665428b88b27d743d)
