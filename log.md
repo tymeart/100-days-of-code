@@ -43,3 +43,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I was so stuck that I watched a tutorial to get a hint for how to keep track of the inputs/outputs. I feel guilty, but I had no idea how I should set up my calculator. :< I was too focused on little parts rather than the whole, but I guess I did learn some things about nodes and vanilla JS from doing things this way.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/5b2e9858bf64a5cc75cf085665428b88b27d743d)
+
+### Day 6: January 7th, 2017
+
+**Today's Progress:** Got numbers and operators to display when clicked. Pulled repetitive code out into an update function (updates display with the string of inputs) and started working on a way to get spaces to show around the operators.
+
+**Thoughts:** It's muuuuch easier to work with arrays and strings than with... nodes.
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/b219b5fb801f88a704f9d5d563d913daa2102610)
