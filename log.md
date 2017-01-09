@@ -51,3 +51,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** It's muuuuch easier to work with arrays and strings than with... nodes.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/b219b5fb801f88a704f9d5d563d913daa2102610)
+
+### Day 7: January 8th, 2017
+
+**Today's Progress:** Gave up trying to get the numbers and operators spaced out because I thought I was spending too much time on something kind of insignificant. Added functionality for AC, CE, and = buttons. Started thinking about how to truncate repeating decimals. 
+
+**Thoughts:** Aside from the spacing of the displayed entries, everything I worked on today was pretty doable, which was kind of nice. It was more about the little cases I hadn't thought about and wouldn't have realized without trying things out on the calculator.
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/ed4e0461bfc52c198d55d82649c61e1f7dd42fd2)
