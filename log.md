@@ -59,3 +59,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Aside from the spacing of the displayed entries, everything I worked on today was pretty doable, which was kind of nice. It was more about the little cases I hadn't thought about and wouldn't have realized without trying things out on the calculator.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/ed4e0461bfc52c198d55d82649c61e1f7dd42fd2)
+
+### Day 8: January 9th, 2017
+
+**Today's Progress:** Continued working on the truncate function.
+
+**Thoughts:** I kept rethinking what I wanted this function to do and how to do it. I think I've decided what I want it to do, so now I'm trying to figure out how to actually implement it.
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/f6489cbcca639c5dec132c6790a7a12f1d0de094)
