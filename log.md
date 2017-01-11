@@ -67,3 +67,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I kept rethinking what I wanted this function to do and how to do it. I think I've decided what I want it to do, so now I'm trying to figure out how to actually implement it.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/f6489cbcca639c5dec132c6790a7a12f1d0de094)
+
+### Day 9: January 10th, 2017
+
+**Today's Progress:** Finished the truncate function.
+
+**Thoughts:** Shortly after I started working today, I began doubting what I was doing again. I think I just didn't have a clear vision of what I wanted. How many decimal places should be displayed? Once I finished the function for the most part (I mean, I don't think it accounts for all cases), it occurred to me that maybe I don't even need this function. Without it, I punched in 1/3 and found that the threes in the resulting repeating decimal don't go on forever in the display. Maybe all I needed was to tweak the CSS a little...
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/87ffd7f9e2e996d05c60ae6e9c13b08b8d46cbf1)
