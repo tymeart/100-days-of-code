@@ -75,3 +75,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Shortly after I started working today, I began doubting what I was doing again. I think I just didn't have a clear vision of what I wanted. How many decimal places should be displayed? Once I finished the function for the most part (I mean, I don't think it accounts for all cases), it occurred to me that maybe I don't even need this function. Without it, I punched in 1/3 and found that the threes in the resulting repeating decimal don't go on forever in the display. Maybe all I needed was to tweak the CSS a little...
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/87ffd7f9e2e996d05c60ae6e9c13b08b8d46cbf1)
+
+### Day 10: January 11th, 2017
+
+**Today's Progress:** Removed the truncate function from the block that displays the total. Changed the positioning of the display and its child elements.
+
+**Thoughts:** It's a little frustrating getting really long decimal results to display nicely at narrower viewports because I don't have a great grasp of CSS still.
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/81b958f58c0569e49ad9681e1f2dcf8c3dc111c9)
