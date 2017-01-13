@@ -86,8 +86,8 @@ Installed Hub so I can create Github repos from command line.
 
 ### Day 11: January 12th, 2017
 
-**Today's Progress:** Got decimal button to work. Tried to get styling for the display to fit longer results, but failed... 
+**Today's Progress:** Got decimal button to work. Tried to get styling for the display to fit longer results but failed... 
 
-**Thoughts:** 
+**Thoughts:** The CSS still bothers me, but I'm trying to not let it interfere with the progress of the rest of the calculator. I tried to get the +/- button to work, but got frustrated and thought it might not be possible. Thinking about it again, I think I should be able to do it.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/b1922ba8a88e76493bddda8b79e663ca3fda769d)
