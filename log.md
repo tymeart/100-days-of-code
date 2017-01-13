@@ -83,3 +83,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** It's a little frustrating getting really long decimal results to display nicely at narrower viewports because I don't have a great grasp of CSS still.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/81b958f58c0569e49ad9681e1f2dcf8c3dc111c9)
+
+### Day 11: January 12th, 2017
+
+**Today's Progress:** Got decimal button to work. Tried to get styling for the display to fit longer results, but failed... 
+
+**Thoughts:** 
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/b1922ba8a88e76493bddda8b79e663ca3fda769d)
