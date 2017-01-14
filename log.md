@@ -91,3 +91,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** The CSS still bothers me, but I'm trying to not let it interfere with the progress of the rest of the calculator. I tried to get the +/- button to work, but got frustrated and thought it might not be possible. Thinking about it again, I think I should be able to do it.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/b1922ba8a88e76493bddda8b79e663ca3fda769d)
+
+### Day 12: January 13th, 2017
+
+**Today's Progress:** Fiddled with CSS to get larger text and more space around buttons and between the display and keypad. Got calculation to update to the evaluated result after equals button is clicked, followed by an operator. Working on getting the decimal button to work properly after the equals button is clicked and displays are updated.
+
+**Thoughts:** Seeing some \#100DaysofCode tweets in the morning motivated me to code practically first thing after eating breakfast! I still ended up procrastinating on doing the real work though. Messed around with the CSS for a while first because it was the "easy" task to tackle.
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/deb903ecc8046603ba02cfb71eebcbb4ae8198f5)
