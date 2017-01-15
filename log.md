@@ -104,6 +104,6 @@ Installed Hub so I can create Github repos from command line.
 
 **Today's Progress:** Made it so clicking the decimal button after the equal button begins a new calculation instead of using the previous result. Started thinking about how to get the % button to work.
 
-**Thoughts:** I had no idea how to get the decimal button to work properly after the equal button is clicked and the display gets updated and cleared. I was conflicted about whether I should push through with this effort or drop the extra equal button feature because it's not very important... After checking the example calculator again, I realized if the decimal button is clicked after the equal button, it just starts a new calculation and doesn't try to append to the previous result.
+**Thoughts:** I had no idea how to get the decimal button to work properly after the equal button is clicked and the display gets updated and cleared. I was conflicted about whether I should push through with this effort or drop the extra equal button feature because it's not very important... After checking the example calculator again, I realized if the decimal button is clicked after the equal button, it just starts a new calculation and doesn't try to append to the previous result. That was a relief.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/1a20b9ef8767587567d90a63bc989707c7f9fd4d)
