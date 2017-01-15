@@ -99,3 +99,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Seeing some \#100DaysofCode tweets in the morning motivated me to code practically first thing after eating breakfast! I still ended up procrastinating on doing the real work though. Messed around with the CSS for a while first because it was the "easy" task to tackle.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/deb903ecc8046603ba02cfb71eebcbb4ae8198f5)
+
+### Day 13: January 14th, 2017
+
+**Today's Progress:**
+
+**Thoughts:** I have no idea how to get the decimal button to work properly after the equal button is clicked and the display gets updated and cleared. I'm conflicted about whether I should push through with this effort or drop the extra equal button feature because it's not very important...
+
+**Link to Work:** [Calculator App]()
