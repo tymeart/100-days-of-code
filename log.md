@@ -107,3 +107,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I had no idea how to get the decimal button to work properly after the equal button is clicked and the display gets updated and cleared. I was conflicted about whether I should push through with this effort or drop the extra equal button feature because it's not very important... After checking the example calculator again, I realized if the decimal button is clicked after the equal button, it just starts a new calculation and doesn't try to append to the previous result. That was a relief.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/1a20b9ef8767587567d90a63bc989707c7f9fd4d)
+
+### Day 14: January 15th, 2017
+
+**Today's Progress:** Got the percent button to take the last number and turn it into a percentage (if the last entry is a number).
+
+**Thoughts:** Worked on this piece of code in repl.it, and it felt good to progress closer to what I needed the outcome to be.
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/019b9e7b9bc59335d08717b5c1e9c19b485af900)
