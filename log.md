@@ -123,3 +123,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** The JS I implemented today was pretty easy, because it was almost exactly the same as yesterday's. I'm kind of dreading refactoring the code (probably tomorrow).
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/a222e857a5e08251f65b6c8ac57f2b28aeea21e3)
+
+### Day 16: January 17th, 2017
+
+**Today's Progress:** Fixed a small bug where clicking the CE button after clicking = didn't clear the last number since the last item in the input was the equal sign. Changed the view for wide viewports to match the vertical layout of the narrow viewport view.
+
+**Thoughts:** I realized that I can work on CSS for hours even when it's frustrating and not doing what I expect. Refactoring (sigh) might come tomorrow after I fix another bug I discovered today. I'm excited to be done with this project though!
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/7191f0764210b4cc161174476be3d355a4eaf0ee)
