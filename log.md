@@ -115,3 +115,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Worked on this piece of code in repl.it, and it felt good to progress closer to what I needed the outcome to be.
 
 **Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/019b9e7b9bc59335d08717b5c1e9c19b485af900)
+
+### Day 15: January 16th, 2017
+
+**Today's Progress:** Got the +/- button to work, similar to the % button. I worked on the CSS again to get long results display nicely. It's a little better, and that might be the best I can do.
+
+**Thoughts:** The JS I implemented today was pretty easy, because it was almost exactly the same as yesterday's. I'm kind of dreading refactoring the code (probably tomorrow).
+
+**Link to Work:** [Calculator App](https://github.com/tymeart/calculator/commit/a222e857a5e08251f65b6c8ac57f2b28aeea21e3)
