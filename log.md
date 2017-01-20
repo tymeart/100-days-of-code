@@ -139,3 +139,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I learned that NaN has a type of number. The way the calculator looks is still not ideal, but it's not too bad, I suppose. I think it's probably not too accessible either... I did change the divs to actual buttons, though they don't look it. I used Chrome's different device views for the first time, which was really helpful. I struggled with landscape orientation after including the viewport meta tag, which was for some reason cutting off the top part of my calculator. In the end I got it to be decent-looking by changing the initial-scale to a number less than 1. I'm not sure if I want to refactor this while it's still fresh in my memory, or if I want to just leave it to polish when I get a portfolio up.
 
 **Link to Work:** [Calculator App](https://tymeart.github.io/calculator/)
+
+### Day 18: January 19th, 2017
+
+**Today's Progress:** Started the HTML and CSS for the next FCC project. Configured Grunt and pushed the project to Github.
+
+**Thoughts:** I thought I'd feel more reluctant to start the next project, but it was all right. It seems simpler than the calculator, but I haven't thought too much about the logic yet.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/b0974a9168a38811d50be33c07a1318de3a2bbef)
