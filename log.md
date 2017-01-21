@@ -155,3 +155,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** There was a bit of resistance and sleepiness today. I wasn't sure what I was going to work on, but once I started I just kept going. I think tomorrow will include the challenge of animation, which is kind of exciting!
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/532448c231110222e608f82c2a2a6ba702e7b554)
+
+### Day 20: January 21st, 2017
+
+**Today's Progress:** Went back to the [calculator](https://github.com/tymeart/calculator/commit/f9435c418d3dda5255542d77783009314590aa32) and changed the padding around the keypad container because it was messing up the layout on some narrower viewports (I realized when I looked at it on my phone). Changed the background color on the pomodoro timer to a different yellow. Began selecting all the buttons in JS in order to add click handlers.
+
+**Thoughts:** I still have a lot of things to learn about git and vanilla JavaScript.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/1c1467daeb2de82c9c917751959f8b9bdf0d6743)
