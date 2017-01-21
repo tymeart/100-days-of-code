@@ -147,3 +147,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I thought I'd feel more reluctant to start the next project, but it was all right. It seems simpler than the calculator, but I haven't thought too much about the logic yet.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/b0974a9168a38811d50be33c07a1318de3a2bbef)
+
+### Day 19: January 20th, 2017
+
+**Today's Progress:** Changed font sizes and families, spacing between elements, and background and text colors. Added the labels for session length and break length. Changed the timer display to just the minutes since I'm allowing adjustment of only minutes.
+
+**Thoughts:** There was a bit of resistance and sleepiness today. I wasn't sure what I was going to work on, but once I started I just kept going. I think tomorrow will include the challenge of animation, which is kind of exciting!
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/532448c231110222e608f82c2a2a6ba702e7b554)
