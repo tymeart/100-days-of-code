@@ -163,3 +163,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I still have a lot of things to learn about git and vanilla JavaScript.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/1c1467daeb2de82c9c917751959f8b9bdf0d6743)
+
+### Day 21: January 22nd, 2017
+
+**Today's Progress:** Added click handlers on the + and - buttons and updated the displays to match the changed number of minutes.
+
+**Thoughts:** I did have to reference my last project a bit, but overall the click-change-update process was much quicker to code this time around. I used forEach this time instead of a for loop, but I'm still using a chained if-else if block and wonder what's a better way of getting things to work.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/72f2d86c5bf73e7f2bb285a4718924348fd37552)
