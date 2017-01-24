@@ -171,3 +171,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I did have to reference my last project a bit, but overall the click-change-update process was much quicker to code this time around. I used forEach this time instead of a for loop, but I'm still using a chained if-else if block and wonder what's a better way of getting things to work.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/72f2d86c5bf73e7f2bb285a4718924348fd37552)
+
+### Day 22, January 23rd, 2017
+
+**Today's Progress:** Prevented the Work Length and Break Length from going below 1.
+
+**Thoughts:** I thought about disabling the - button once 1 was reached, but I couldn't quite figure out how to target the correct element and toggle the disabled attribute. I discovered that a simple if condition will not do anything once 1 is reached. However, disabling the buttons might still be best for UX.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/568820885c2ff6beea7b1d6d3f3cb6df4f74691a)
