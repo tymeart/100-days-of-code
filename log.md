@@ -184,6 +184,6 @@ Installed Hub so I can create Github repos from command line.
 
 **Today's Progress:** Got the timer to countdown to 0 using setInterval. Start button toggles between 'start' and 'pause' when clicked.
 
-**Thoughts:** This is my first time using setInterval! I was confused at first by the examples on MDN but figured it out. Also learned a bit about the difference between innerText and textContent.
+**Thoughts:** This is my first time using setInterval! I was confused at first by the examples on MDN but figured it out after looking at other people's examples. Also learned a bit about the difference between innerText and textContent.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/0d9f456a4316b96f00d4e64712b085687776d74a)
