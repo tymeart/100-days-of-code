@@ -172,10 +172,18 @@ Installed Hub so I can create Github repos from command line.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/72f2d86c5bf73e7f2bb285a4718924348fd37552)
 
-### Day 22, January 23rd, 2017
+### Day 22: January 23rd, 2017
 
 **Today's Progress:** Prevented the Work Length and Break Length from going below 1.
 
 **Thoughts:** I thought about disabling the - button once 1 was reached, but I couldn't quite figure out how to target the correct element and toggle the disabled attribute. I discovered that a simple if condition will not do anything once 1 is reached. However, disabling the buttons might still be best for UX.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/568820885c2ff6beea7b1d6d3f3cb6df4f74691a)
+
+### Day 23: January 24th, 2017
+
+**Today's Progress:** Got the timer to countdown to 0 using setInterval. Start button toggles between 'start' and 'pause' when clicked.
+
+**Thoughts:** This is my first time using setInterval! I was confused at first by the examples on MDN but figured it out. Also learned a bit about the difference between innerText and textContent.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/0d9f456a4316b96f00d4e64712b085687776d74a)
