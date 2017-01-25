@@ -182,7 +182,7 @@ Installed Hub so I can create Github repos from command line.
 
 ### Day 23: January 24th, 2017
 
-**Today's Progress:** Got the timer to countdown to 0 using setInterval. Start button toggles between 'start' and 'pause' when clicked.
+**Today's Progress:** Got the timer to count down to 0 using setInterval. Start button toggles between 'start' and 'pause' when clicked.
 
 **Thoughts:** This is my first time using setInterval! I was confused at first by the examples on MDN but figured it out after looking at other people's examples. Also learned a bit about the difference between innerText and textContent.
 
