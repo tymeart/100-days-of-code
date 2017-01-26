@@ -187,3 +187,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** This is my first time using setInterval! I was confused at first by the examples on MDN but figured it out after looking at other people's examples. Also learned a bit about the difference between innerText and textContent.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/0d9f456a4316b96f00d4e64712b085687776d74a)
+
+### Day 24: January 25th, 2017
+
+**Today's Progress:** Got timer to pause when the pause button is clicked. Fixed the problem of countdown speeding up when starting up again after a pause.
+
+**Thoughts:** I was super reluctant to work today. I did put off my coding until the end of the day and couldn't concentrate much. I'm not sure if the time I worked added up to an hour, but I feel good that I got a little bit done.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/d0e2a2c7fc4d0e8c6a426e0097f2cb881c6fe75a)
