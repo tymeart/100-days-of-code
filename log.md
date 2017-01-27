@@ -195,3 +195,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I was super reluctant to work today. I did put off my coding until the end of the day and couldn't concentrate much. I'm not sure if the time I worked added up to an hour, but I feel good that I got a little bit done.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/d0e2a2c7fc4d0e8c6a426e0097f2cb881c6fe75a)
+
+### Day 25: January 26th, 2017
+
+**Today's Progress:** Made it so the timer display matches the adjusted work length interval. Pulled the setInterval function into a separate function outside of the click handler and wrote a similar function to be called when break timer starts. Tweaked placement of timer updates and changed condition for when next timer gets kicked off to make sure the countdowns start and end on the right numbers.
+
+**Thoughts:** I'm proud that I thought of making the setInterval function into the startWork function and having startWork and startBreak call each other. I've pretty much gotten the main functionality of the timer done, and I wouldn't have made this much progress today if it weren't for the people who helped me when I got stuck. 
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/28f2add8f8c7d36610585552c1c481a6918e4ee9)
