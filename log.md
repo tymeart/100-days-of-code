@@ -203,3 +203,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I'm proud that I thought of making the setInterval function into the startWork function and having startWork and startBreak call each other. I've pretty much gotten the main functionality of the timer done, and I wouldn't have made this much progress today if it weren't for the people who helped me when I got stuck. 
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/28f2add8f8c7d36610585552c1c481a6918e4ee9)
+
+### Day 26: January 27th, 2017
+
+**Today's Progress:** Added a circle for the clock animation and had to reposition everything within the countdown div. Started reading about some different CSS properties I could possibly use for the animation.
+
+**Thoughts:** Positioning is so difficult! My CSS skills are still so weak... Animation is going to take longer than I expected since I have to figure out how to display the sections of a circle.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/488dcf3b27314a5ccc0dc79b32fc05ef595a2e95)
