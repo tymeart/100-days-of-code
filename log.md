@@ -211,3 +211,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Positioning is so difficult! My CSS skills are still so weak... Animation is going to take longer than I expected since I have to figure out how to display the sections of a circle.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/488dcf3b27314a5ccc0dc79b32fc05ef595a2e95)
+
+### Day 27: January 28th, 2017
+
+**Today's Progress:** I found a tutorial for a pie chart-looking timer and tried applying it to my pomodoro timer, but I didn't understand what the CSS was doing or how to tailor it to the way my divs were already set up. I found other examples that were basically what I wanted my timer animation to look like, but I didn't understand the CSS behind them. I then found a pen for a simple CSS half circle on Codepen and decided to fork it and just play around with it to learn. I thought I would rotate two semicircles and clip certain parts of it to create the illusion I wanted. But after figuring out the rotation animation, I thought a bit more about how to link this animation up with the countdown and start/pause, it occurred to me that I should be using HTML canvas and JS, not just CSS by itself.
+
+**Thoughts:** Determining what certain pieces of CSS did what was difficult for me since transition- and animation-related properties were still kind of unfamiliar. I was also confused about border-radius because I'd forgotten what each value represents and wrongly assumed they were the same as with margin and padding. 
+
+**Link to Work:** [CSS Half Circle](https://codepen.io/tymeart/pen/XpzGLq)
