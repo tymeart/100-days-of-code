@@ -219,3 +219,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Determining what certain pieces of CSS did what was difficult for me since transition- and animation-related properties were still kind of unfamiliar. I was also confused about border-radius because I'd forgotten what each value represents and wrongly assumed they were the same as with margin and padding. 
 
 **Link to Work:** [CSS Half Circle](https://codepen.io/tymeart/pen/XpzGLq)
+
+### Day 28: January 29th, 2017
+
+**Today's Progress:** Read around trying to figure out where to start with using JS to animate my timer. Finally found examples of canvas/JS code (on MDN!) that I would need, so I set up my canvas element and got the canvas context so I can start drawing arcs to form a circle.
+
+**Thoughts:** Today's session was super difficult because I was dealing with sleepiness and a headache. I considered using a library like ProgressBar.js because I already feel like I'm spending more time on this project than I need to, but I'm going to write the code myself because I really want to learn more about animation.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/ab4ef2b39aeed84ad1422b966fd4e46470e2c497)
