@@ -227,3 +227,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Today's session was super difficult because I was dealing with sleepiness and a headache. I considered using a library like ProgressBar.js because I already feel like I'm spending more time on this project than I need to, but I'm going to write the code myself because I really want to learn more about animation.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/ab4ef2b39aeed84ad1422b966fd4e46470e2c497)
+
+### Day 29: January 30th, 2017
+
+**Today's Progress:** Learned how to draw arcs in canvas.
+
+**Thoughts:** I for some reason thought that I could animate the arcs with just a for loop, but then I remembered requestAnimationFrame, so that's what I will work on tomorrow. I feel like maybe hooking the animation up with the timer countdown won't be too bad.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/5792d7f7b432f71e6b48eefad4704e5f25fd22c4)
