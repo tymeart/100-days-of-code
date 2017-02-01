@@ -235,3 +235,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I for some reason thought that I could animate the arcs with just a for loop, but then I remembered requestAnimationFrame, so that's what I will work on tomorrow. I feel like maybe hooking the animation up with the timer countdown won't be too bad.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/5792d7f7b432f71e6b48eefad4704e5f25fd22c4)
+
+### Day 30: January 31st, 2017
+
+**Today's Progress:** Implemented requestAnimationFrame and a time difference to animate the arc, but stuck it in my button click handler, so it only animates a little bit before stopping and continues when the button is clicked again.
+
+**Thoughts:** Spent most of my time looking through examples, and each of them were slightly different (and most were difficult to understand). One thing I saw repeatedly was using the Date object to get a time difference, so I decided to do the same, and I think it worked, though now I'm unsure of when the startTime actually begins. Still have to figure out how to get the arc to continue animating unless the pause button is clicked and how to keep the countdown running in sync with the animation.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/1e3808760f5a0892447d6745c7b516e846240000)
