@@ -243,3 +243,19 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Spent most of my time looking through examples, and each of them were slightly different (and most were difficult to understand). One thing I saw repeatedly was using the Date object to get a time difference, so I decided to do the same, and I think it worked, though now I'm unsure of when the startTime actually begins. Still have to figure out how to get the arc to continue animating unless the pause button is clicked and how to keep the countdown running in sync with the animation.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/1e3808760f5a0892447d6745c7b516e846240000)
+
+### Day 31: February 1st, 2017
+
+**Today's Progress:** I switched from trying to use requestAnimationFrame to using setInterval to animate the arcs because I read that it's unnecessary to refresh the screen at 60fps when all I need is to get a complete circle at the end of 60 seconds. Also, rAF gets throttled even more than setInterval does when the tab is in the background??
+
+**Thoughts:** I felt relieved when I finally got a full circle animation. With rAF in the click handler, it only animated a piece at a time and I would have to keep clicking the button. Still have to figure out how to sync the animation with my timer.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/d79b7faf5e42687e4f5fff93acf9deee61384c8e)
+
+### Day 32: February 2nd, 2017
+
+**Today's Progress:** Played around with placing the draw function within the existing timer setInterval, within another setInterval as well as just by itself. I added pause functionality to the draw function, but there's a huge lag when restarted after being paused. When trying out my timer setInterval with a delay of 60,000 ms (1 minute), I discovered that my countdown was not working as it should. I compared it to a stopwatch, and the number displayed wasn't changing even after 1.5 minutes. I couldn't figure out why, since when the delay was set to 1000 ms (1 second), the countdown seemed to work fine. Eventually I tried again, comparing with my stopwatch, and realized the number would finally get decremented after 2 minutes! So there's something fundamentally problematic about how I've set up (the order) of the actions within my timer setInterval callback function.
+
+**Thoughts:** I thought I was one step closer to being done, but now it feels like I've taken two steps back. I'm going to look back at setInterval and what exactly happens when it's used, because apparently I don't understand it very well.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/23d06eb2a864af868b3460762494b30318059d92)
