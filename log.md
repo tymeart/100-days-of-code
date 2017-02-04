@@ -259,3 +259,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I thought I was one step closer to being done, but now it feels like I've taken two steps back. I'm going to look back at setInterval and what exactly happens when it's used, because apparently I don't understand it very well.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/23d06eb2a864af868b3460762494b30318059d92)
+
+### Day 33: February 3rd, 2017
+
+**Today's Progress:** I realized that the delay at the beginning of my timer was due to the nature of setInterval. It begins with a delay and then executes the callback. In order to begin with the action instead of the delay, I'm trying to invoke the callback immediately before calling setInterval. I pulled out the anonymous functions and stuck them in an updateDisplay function. However, this updateDisplay function takes in a parameter, so I think I have to write a function that will create the setInterval with the callback with the correct argument passed in.
+
+**Thoughts:** Starting was tough because it's late and I was sleepy... I wasn't sure where to begin, but I thought I should give priority to the timer, as it's the core of this project. Creating the updateDisplay function made me feel slightly better about the DRYness of my code. It's so messy and all over the place...
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/20ad63a0f10243be5b52db60cef9909e2c4cf3cf)
