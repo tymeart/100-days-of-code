@@ -267,3 +267,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Starting was tough because it's late and I was sleepy... I wasn't sure where to begin, but I thought I should give priority to the timer, as it's the core of this project. Creating the updateDisplay function made me feel slightly better about the DRYness of my code. It's so messy and all over the place...
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/20ad63a0f10243be5b52db60cef9909e2c4cf3cf)
+
+### Day 34: February 4th, 2017
+
+**Today's Progress:** I wrote a function to create setInterval with an anonymous function that calls updateDisplay, but it doesn't work. Nothing works right now. I went back and hard-coded a few things in the updateDisplay function in case my use of the parameter and template strings was incorrect and causing trouble.
+
+**Thoughts:** The createInterval method is quite expensive because it creates a new function every time setInterval runs, but even so I feel like it should work? But it doesn't, and I'm not sure what to do now.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/7130cf1f1804fc1fffe16599028cd307e5e6b23a)
