@@ -275,3 +275,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** The createInterval method is quite expensive because it creates a new function every time setInterval runs, but even so I feel like it should work? But it doesn't, and I'm not sure what to do now.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/7130cf1f1804fc1fffe16599028cd307e5e6b23a)
+
+### Day 35: February 5th, 2017
+
+**Today's Progress:** I abandoned the createInterval function from yesterday because it was inefficient and didn't work. I split the updateDisplay function into two: one for the work session and one for the break session. This way, I don't need to pass in a parameter! Instead of trying to call the function before setInterval within startWork, I decremented the workLength in a setTimeout before calling startWork so the countdown would start after the first minute and continue from there.
+
+**Thoughts:** I *think* I've got the timer working properly now. It does decrement every minute, though I haven't checked that it still works during the break session and that it transitions between sessions properly. Now I'm back to my problem of getting the animation to sync with the countdown...
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/6fabdd2d7e1b2937f5ca82259604251000710d41)
