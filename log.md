@@ -283,3 +283,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I *think* I've got the timer working properly now. It does decrement every minute, though I haven't checked that it still works during the break session and that it transitions between sessions properly. Now I'm back to my problem of getting the animation to sync with the countdown...
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/6fabdd2d7e1b2937f5ca82259604251000710d41)
+
+### Day 36: February 6th, 2017
+
+**Today's Progress:** After more reading, I think it may be impossible to sync my arc animation to the timer countdown since JS is single-threaded. I started figuring out what I need to do to get my timer to display seconds now that I can't have the animation represent them.
+
+**Thoughts:** I was pretty down after the realization and felt like I might have to start all over. I put off working on displaying the seconds for a while. Now I've at least thought about it and psuedocoded it out, so I feel a little better.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/2bc5c303b1afaa35888b24313d730c2ed46ff486)
