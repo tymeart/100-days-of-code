@@ -291,3 +291,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I was pretty down after the realization and felt like I might have to start all over. I put off working on displaying the seconds for a while. Now I've at least thought about it and psuedocoded it out, so I feel a little better.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/2bc5c303b1afaa35888b24313d730c2ed46ff486)
+
+### Day 37: February 7th, 2017
+
+**Today's Progress:** Rewrote work and break functions to countdown seconds as well as minutes. Included a function to update the timer display. Changed the setInterval delay so the timer updates every second.
+
+**Thoughts:** I feel like my functions may be getting too convoluted, like I might have an extra, unnecessary wrapper function. Or is this how modular(?) it's supposed to be?
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/236046e79e5c9dbaacf5ee5cc01c0213ac265f2a)
