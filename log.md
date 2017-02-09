@@ -299,3 +299,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I feel like my functions may be getting too convoluted, like I might have an extra, unnecessary wrapper function. Or is this how modular(?) it's supposed to be?
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/236046e79e5c9dbaacf5ee5cc01c0213ac265f2a)
+
+### Day 38: February 8th, 2017
+
+**Today's Progress:** Fixed the issue with the seconds countdown. Fixed the issue where starting a work session from less than 10 minutes would switch back to 24 minutes after the first second by changing when the timer minutes get updated with the workLength number.
+
+**Thoughts:** I realized my process for these past two projects has been very reactive. I start with a chunk of code that I think does what I want it to, but I run it and fix it as I go. I guess that's what iterations and development are about? But part of me feels like I should be able to get much closer from the get go.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/308616182808b48bf2df241021ec76209bd9b747)
