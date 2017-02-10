@@ -315,3 +315,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I feel like my errors are simple ones that can be fixed by moving a line of code or adding a single character, but I just can't see how to fix them.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/a6fd5343059aff88904e327f92059cf7f0e694aa)
+
+### Day 40: February 10th, 2017
+
+**Today's Progress:** Continued trying to get the sessions to transition properly. The timer either skips 00:00 or the beginning of the next session (5:00 in the case of the default break). I logged out the result of updateTimerDisplay when minutes and seconds are '00', and that came out undefined.
+
+**Thoughts:** Maybe I should have thought this out more thoroughly before I jumped into the code. I can't see the flaws in my logic. I don't know how to get my timer from skipping 00:00.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/c2783cc46e72026b1b6e1d1b54ba445ffef6b559)
