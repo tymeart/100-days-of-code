@@ -307,3 +307,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I realized my process for these past two projects has been very reactive. I start with a chunk of code that I think does what I want it to, but I run it and fix it as I go. I guess that's what iterations and development are about? But part of me feels like I should be able to get much closer from the get go.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/308616182808b48bf2df241021ec76209bd9b747)
+
+### Day 39: February 9th, 2017
+
+**Today's Progress:** Got the timer to stop prepending zeroes to minutes less than 10. Worked on getting the work session to transition to the break session properly.
+
+**Thoughts:** I feel like my errors are simple ones that can be fixed by moving a line of code or adding a single character, but I just can't see how to fix them.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/a6fd5343059aff88904e327f92059cf7f0e694aa)
