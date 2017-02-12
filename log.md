@@ -323,3 +323,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Maybe I should have thought this out more thoroughly before I jumped into the code. I can't see the flaws in my logic. I don't know how to get my timer from skipping 00:00.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/c2783cc46e72026b1b6e1d1b54ba445ffef6b559)
+
+### Day 41: February 11th, 2017
+
+**Today's Progress:** Put together a page for my team's hackathon project, which includes a form input and submit button. Started utilizing Semantic UI for the results of the submission.
+
+**Thoughts:** My design skills are so weak! I don't know the best way to space things out so that they're responsive. What units should I use for what? Need to look into this...
+
+**Link to Work:** [Gift.io](https://github.com/tymeart/gift.io/commit/a1b8cf4930e59aac9fb9d1faac0e72e9e7841c3e)
