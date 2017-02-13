@@ -331,3 +331,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** My design skills are so weak! I don't know the best way to space things out so that they're responsive. What units should I use for what? Need to look into this...
 
 **Link to Work:** [Gift.io](https://github.com/tymeart/gift.io/commit/a1b8cf4930e59aac9fb9d1faac0e72e9e7841c3e)
+
+### Day 42: February 12th, 2017
+
+**Today's Progress:** Changed spacing and alignment of various elements on the index page as well as the color of the card title texts.
+
+**Thoughts:** Today's tweaks had to be looked up because I didn't understand what was happening/didn't know what properties would solve my problems. I was pretty content with how it looked when I passed it off, but it did get changed a bit to fit the scrolling transitions and to integrate some styling that my teammate wanted.
+
+**Link to Work:** [Gift.io](https://github.com/tymeart/gift.io/commit/b59eb6bb552eb4f2025b2103cd24bfcbe83bbec5)
