@@ -339,3 +339,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Today's tweaks had to be looked up because I didn't understand what was happening/didn't know what properties would solve my problems. I was pretty content with how it looked when I passed it off, but it did get changed a bit to fit the scrolling transitions and to integrate some styling that my teammate wanted.
 
 **Link to Work:** [Gift.io](https://github.com/tymeart/gift.io/commit/b59eb6bb552eb4f2025b2103cd24bfcbe83bbec5)
+
+### Day 43: February 13th, 2017
+
+**Today's Progress:** Began revamping personal site by adding full-page sections for the landing page, about me, projects, and contact info.
+
+**Thoughts:** I'm going to go with a basic, simple layout first. Maybe I'll add more interesting shapes/designs later on.
+
+**Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/0262e5dc846711d62e05c79550fdd8aaabe91fa4)
