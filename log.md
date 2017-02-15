@@ -347,3 +347,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I'm going to go with a basic, simple layout first. Maybe I'll add more interesting shapes/designs later on.
 
 **Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/0262e5dc846711d62e05c79550fdd8aaabe91fa4)
+
+### Day 44: February 14th, 2017
+
+**Today's Progress:** Removed full-page sizing from the sections because I decided I didn't want that kind of layout. Added anchor tags to allow jumping from the nav to specific sections. Adjusted padding for the sections so they aren't so close together.
+
+**Thoughts:** I've been pretty reluctant to work, partly because I don't have much of a vision for how I want my page to look like. I'll get more done when I don't wait until late at night to work...
+
+**Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/bcf1d236fde90544afde422b855b855fbbcde269)
