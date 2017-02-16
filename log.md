@@ -355,3 +355,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I've been pretty reluctant to work, partly because I don't have much of a vision for how I want my page to look like. I'll get more done when I don't wait until late at night to work...
 
 **Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/bcf1d236fde90544afde422b855b855fbbcde269)
+
+### Day 45: February 15th, 2017
+
+**Today's Progress:** Added alt attribute to the image tags. Linked calculator project, the only project on Github at the moment. Wrote short descriptions for each of the projects. Spaced out the projects and contact links with flexbox.
+
+**Thoughts:** I should develop mobile-first...
+
+**Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/47f5a6403eb075a88e68cd2e5c316155cc142efb)
