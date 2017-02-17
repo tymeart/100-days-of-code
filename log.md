@@ -363,3 +363,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I should develop mobile-first...
 
 **Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/47f5a6403eb075a88e68cd2e5c316155cc142efb)
+
+### Day 46: February 16th, 2017
+
+**Today's Progress:** Update timer display when workLength adjustment buttons are clicked. Consolidate runWorkSession and runBreakSession into one function. Add an onBreak variable to track which session the timer is on. Refactored the updateTimerDisplay function to display a string so that minutes and seconds remain numbers. Moved the clearInterval and setInterval around in the startWork and startBreak functions. Instead of running one of the functions when the start button is clicked, set an interval with runSession...
+
+**Thoughts:** I don't think I would have been able to get this to work without help. I was so stuck with the logic at many points during the project! Just a few more little things to do, and maybe a refactoring of the code.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/6d627fe6af4cff930454c01f67063fc1a83a9a04)
