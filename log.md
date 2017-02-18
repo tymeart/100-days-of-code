@@ -371,3 +371,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I don't think I would have been able to get this to work without help. I was so stuck with the logic at many points during the project! Just a few more little things to do, and maybe a refactoring of the code.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/6d627fe6af4cff930454c01f67063fc1a83a9a04)
+
+### Day 47: February 17th, 2017
+
+**Today's Progress:** Added random quote machine and Wikipedia viewer to Github and linked them in portfolio.
+
+**Thoughts:** Yesterday, my quote machine wasn't working, but today it's suddenly working again... I discovered my weather app isn't working though, so I think I'll look into using JSONP on that and see if it works again.
+
+**Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/5b6bd0ab9a116ad12122c9b5f62d3877c57e93be)
