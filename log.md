@@ -379,3 +379,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Yesterday, my quote machine wasn't working, but today it's suddenly working again... I discovered my weather app isn't working though, so I think I'll look into using JSONP on that and see if it works again.
 
 **Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/5b6bd0ab9a116ad12122c9b5f62d3877c57e93be)
+
+### Day 48: February 18th, 2017
+
+**Today's Progress:** More looking at error messages about CORS issues. Tried using axios instead of getJSON, which worked locally but not on Github Pages...
+
+**Thoughts:** I don't know if it's possible to use OpenWeatherMap API at all at this point if I can't access the data over HTTPS.
+
+**Link to Work:** [Weather App](https://github.com/tymeart/weather-app/commit/a1a59f02da0aae35e563f776370e27161d1670df)
