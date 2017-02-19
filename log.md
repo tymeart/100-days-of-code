@@ -387,3 +387,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I don't know if it's possible to use OpenWeatherMap API at all at this point if I can't access the data over HTTPS.
 
 **Link to Work:** [Weather App](https://github.com/tymeart/weather-app/commit/a1a59f02da0aae35e563f776370e27161d1670df)
+
+### Day 49: February 19th, 2017
+
+**Today's Progress:** Gave up on getting the weather app to work because the API endpoint isn't accessible with HTTPS anyway... Added alert messages on pomodoro timer that pop up at the end of a session before beginning the next one.
+
+**Thoughts:** Still need to fix the narrower viewport views, but I'm glad to be done with the timer.
+
+**Link to Work** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/c402fae4c54eb07bf089fdd8474bb7d40ba04803)
