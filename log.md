@@ -395,3 +395,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Still need to fix the narrower viewport views, but I'm glad to be done with the timer.
 
 **Link to Work** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/c402fae4c54eb07bf089fdd8474bb7d40ba04803)
+
+### Day 50: February 20th, 2017
+
+**Today's Progress:** I started the Responsive Web Design Fundamentals course on Udacity. Started working on making this "home town app" responsive.
+
+**Thoughts:** I hope I can get through this course quickly and apply the gained knowledge to my own projects.
+
+**Link to Work:** [Home Town App (Udacity)](https://classroom.udacity.com/courses/ud893/lessons/3494350031/concepts/35019794250923#)
