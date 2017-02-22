@@ -403,3 +403,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I hope I can get through this course quickly and apply the gained knowledge to my own projects.
 
 **Link to Work:** [Home Town App (Udacity)](https://classroom.udacity.com/courses/ud893/lessons/3494350031/concepts/35019794250923#)
+
+### Day 51: February 21st, 2017
+
+**Today's Progress:** Continued working through the Udacity course. Made it to the middle of "Common Responsive Patterns."
+
+**Thoughts:** I've learned that I should check for widths (should be relative) and tap targets (should be about 48px x 48px) when making a responsive page. Should finish this course tomorrow, and then I'll be back on my projects.
+
+**Link to Work:** [Mostly Fluid Pattern](https://classroom.udacity.com/courses/ud893/lessons/3561069759/concepts/36132285380923)
