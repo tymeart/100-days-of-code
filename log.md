@@ -411,3 +411,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I've learned that I should check for widths (should be relative) and tap targets (should be about 48px x 48px) when making a responsive page. Should finish this course tomorrow, and then I'll be back on my projects.
 
 **Link to Work:** [Mostly Fluid Pattern](https://classroom.udacity.com/courses/ud893/lessons/3561069759/concepts/36132285380923)
+
+### Day 52: February 22nd, 2017
+
+**Today's Progress:** Completed the Udacity course on RWD and began trying to apply some of my new knowledge on my pomodoro timer. Fixed the issue with white space in the right and bottom margins in mobile views by making padding/spacing smaller.
+
+**Thoughts:** Even my CSS could use some refactoring...
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/59f11d43b9249798b0ac72c513ec600f0d66534f)
