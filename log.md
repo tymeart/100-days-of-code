@@ -419,3 +419,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Even my CSS could use some refactoring...
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/59f11d43b9249798b0ac72c513ec600f0d66534f)
+
+### Day 53: February 23rd, 2017
+
+**Today's Progress:** Tweaked the UI of my pomodoro timer to look better on different devices. 
+
+**Thoughts:** I had the hardest time trying to resize the start button. It turned out to be restricted in height because its container was a fixed height as well. When YDKCSS...
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/4ab60417f585cf9f30e9e65d8a2d8e28ca16836e)
