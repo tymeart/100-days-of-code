@@ -427,3 +427,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I had the hardest time trying to resize the start button. It turned out to be restricted in height because its container was a fixed height. When YDKCSS...
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/4ab60417f585cf9f30e9e65d8a2d8e28ca16836e)
+
+### Day 54: February 24th, 2017
+
+**Today's Progress:** Made a minor change to the width of the countdown div, which was causing extra (white) space on the side of the screen in some mobile views. Spent some time trying to figure out why the app wasn't working on my phone. Tried to debug with Web Inspector, but along the way I realized it wasn't even working in my desktop Safari. Found out that forEach doesn't work on the NodeList that gets returned from querySelectorAll in many browsers.
+
+**Thoughts:** I'm glad that I now have direction on what to do next.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/3785e38b1fd3aa69599468ed8b6711f68d6c14aa)
