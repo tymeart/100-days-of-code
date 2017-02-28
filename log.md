@@ -435,3 +435,27 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I'm glad that I now have direction on what to do next.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/3785e38b1fd3aa69599468ed8b6711f68d6c14aa)
+
+### Day 55: Februrary 25th, 2017
+
+**Today's Progress:** Did the first 5 exercises of learnyounode at Node School.
+
+**Thoughts:** Since I didn't continue learning Node aft terhe last time I went to Node School, I decided to start all over. This time I got farther a lot faster! Feel pretty good because that means I've made some progress.
+
+**Link to Work:** [none]
+
+### Day 56: February 26th, 2017
+
+**Today's Progress:** I rewrote the forEach block in my pomodoro timer code to use a for loop instead, so the app should work in most mobile browsers now. Tried to fix the weird positioning in mobile Safari to no avail.
+
+**Thoughts:** Debugging something that shows up only on a mobile device is really hard.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/9af178f0afeb5e8f03f8e0cc093a2c235657f4c0)
+
+### Day 57: February 27th, 2017
+
+**Today's Progress:** Decided that I'm not going to include screenshots of my projects. Rearranged the project section elements. Increased font size.
+
+**Thoughts:** Maybe I'll change my mind again in the future, but I quite like the simplicity of it right now. Also, oops, I should be developing mobile-first.
+
+**Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/dad3bd530c64ffd564bf5a506913fbc97075fc67)
