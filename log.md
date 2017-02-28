@@ -440,7 +440,7 @@ Installed Hub so I can create Github repos from command line.
 
 **Today's Progress:** Did the first 5 exercises of learnyounode at Node School.
 
-**Thoughts:** Since I didn't continue learning Node aft terhe last time I went to Node School, I decided to start all over. This time I got farther a lot faster! Feel pretty good because that means I've made some progress.
+**Thoughts:** Since I didn't continue learning Node after the last time I went to Node School, I decided to start all over. This time I got farther a lot faster! Feel pretty good because that means I've made some progress.
 
 **Link to Work:** [none]
 
@@ -458,4 +458,4 @@ Installed Hub so I can create Github repos from command line.
 
 **Thoughts:** Maybe I'll change my mind again in the future, but I quite like the simplicity of it right now. Also, oops, I should be developing mobile-first.
 
-**Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/dad3bd530c64ffd564bf5a506913fbc97075fc67)
+**Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/dad3bd530c64ffd564bf5a506913fbc97075fc67)
