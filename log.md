@@ -467,3 +467,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** The modularize it exercise has been the toughest so far. I reread the instructions and hints multiple times and still didn't really understand where things should go and how the callbacks should work. The next two excercises involving the http module were okay, but now I'm pretty lost on the async one.
 
 **Link to Work:** [none]
+
+### Day 59: March 1st, 2017
+
+**Today's Progress:** Went back to my Wikipedia viewer to make sure it looked okay and worked on mobile. I had to add the viewport meta tag, but most of the breakpoints were already set when I was working on this project originally. I also changed the "Get a random article" div to an actual button. Added the viewport meta tag to my random quote machine as well, and changed the Twitter button to an actual button as well. Added 2 breakpoints for narrower viewports. It's hard to test on my phone because my OS/version of Safari is a bit old and doesn't seem to recognize some the dimension units. Discovered that the button to get a new quote doesn't work though...
+
+**Thoughts:** I should review the notes I took on accessibility.
+
+**Link to Work:** [Wikipedia Viewer](https://github.com/tymeart/wikipedia-viewer/commit/e7ac28bad5636d334f5c4e5beb17cbf22cee2c02), [Random Quote Machine](https://github.com/tymeart/random-quote-machine/commit/aa562cb3a88f43d32ff3736f20b3b3f86c140814)
