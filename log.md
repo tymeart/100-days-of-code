@@ -459,3 +459,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Maybe I'll change my mind again in the future, but I quite like the simplicity of it right now. Also, oops, I should be developing mobile-first.
 
 **Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/dad3bd530c64ffd564bf5a506913fbc97075fc67)
+
+### Day 58: February 28th, 2017
+
+**Today's Progress:** Went through 3 more learnyounode exercises.
+
+**Thoughts:** The modularize it exercise has been the toughest so far. I reread the instructions and hints multiple times and still didn't really understand where things should go and how the callbacks should work. The next two excercises involving the http module were okay, but now I'm pretty lost on the async one.
+
+**Link to Work:** [none]
