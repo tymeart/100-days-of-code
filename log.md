@@ -483,3 +483,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Despite all this, my app does not work on my phone. I checked it on my friend's HTC One, and it worked, so I'm hoping it works all right in newer browsers than mine. I should check if my apps work in Firefox!
 
 **Link to Work:** [Random Quote Machine](https://github.com/tymeart/random-quote-machine/commit/f785577d3976a4c52bbe481f7ba8f7bc921004aa)
+
+### Day 61: March 3rd, 2017
+
+**Today's Progress:** Centered all the section contents, which weren't displaying as centered on narrower viewports. Increased the h1 font size a bit. Aligned the project titles to the right so they didn't leave odd-looking spaces when breaking onto new lines. Added more padding below the project descriptions. Rearranged the social media links to be vertical in narrower viewports and horizontal in viewports wider than 600px.
+
+**Thoughts:** I was about to work on the tribute page project, but then I figured working on my portfolio page would be more beneficial right now. Still don't know what to write about myself... Anyway, I kind of want to have the project titles and descriptions aligned, but I think I'd have to use tables and not flexbox to get that effect. Hmm...
+
+**Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/079df9f9f6b21e46527c6cef132701b069e820eb)
