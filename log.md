@@ -475,3 +475,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I should review the notes I took on accessibility.
 
 **Link to Work:** [Wikipedia Viewer](https://github.com/tymeart/wikipedia-viewer/commit/e7ac28bad5636d334f5c4e5beb17cbf22cee2c02), [Random Quote Machine](https://github.com/tymeart/random-quote-machine/commit/aa562cb3a88f43d32ff3736f20b3b3f86c140814)
+
+### Day 60: March 2nd, 2017
+
+**Today's Progress:** Changed the click handler on the new quote button from .click() to .on() with click and touch events. Included vendor prefixes. Added a fallback of definite pixels for the quote box min-height since calc() isn't supported on all browsers.
+
+**Thoughts:** Despite all this, my app does not work on my phone. I checked it on my friend's HTC One, and it worked, so I'm hoping it works all right in newer browsers than mine. I should check if my apps work in Firefox!
+
+**Link to Work:** [Random Quote Machine](https://github.com/tymeart/random-quote-machine/commit/f785577d3976a4c52bbe481f7ba8f7bc921004aa)
