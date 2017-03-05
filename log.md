@@ -491,3 +491,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I was about to work on the tribute page project, but then I figured working on my portfolio page would be more beneficial right now. Still don't know what to write about myself... Anyway, I kind of want to have the project titles and descriptions aligned, but I think I'd have to use tables and not flexbox to get that effect. Hmm...
 
 **Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/079df9f9f6b21e46527c6cef132701b069e820eb)
+
+### Day 62: March 4th, 2017
+
+**Today's Progress:** Changed the projects section to a column layout on narrower viewports. Began adding colors.
+
+**Thoughts:** I just realized that in order to support all browsers, I would have to not rely solely on flexbox. That makes me wonder if I should go back to using floats first as a fallback and then add flexbox for newer browsers. But isn't that redundant? Anyways, I don't have a vision for how I want my portfolio page to look aesthetically, so I'm kind of okay with the plainness right now.
+
+**Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/3da42edebb5ddab9dbfcf0436d39c385e210e946)
