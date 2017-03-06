@@ -499,3 +499,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I just realized that in order to support all browsers, I would have to not rely solely on flexbox. That makes me wonder if I should go back to using floats first as a fallback and then add flexbox for newer browsers. But isn't that redundant? Anyways, I don't have a vision for how I want my portfolio page to look aesthetically, so I'm kind of okay with the plainness right now.
 
 **Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/3da42edebb5ddab9dbfcf0436d39c385e210e946)
+
+### Day 63: March 5th, 2017
+
+**Today's Progress:** I started working on my tribute page since I'm not sure what to work on, and I think it's about time I learn Bootstrap. I was going to review by going through the old FCC exercises, but the version of Bootstrap that Codepen includes is version 4, so I'm looking to the docs for reference instead.
+
+**Thoughts:** Too sleepy to get very far...
+
+**Link to Work:** [Tribute Page](http://codepen.io/tymeart/pen/LWRVPe?editors=1100)
