@@ -507,3 +507,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Too sleepy to get very far...
 
 **Link to Work:** [Tribute Page](http://codepen.io/tymeart/pen/LWRVPe?editors=1100)
+
+### Day 64: March 6th, 2017
+
+**Today's Progress:** Decided not to include a photo of Sol LeWitt and use a photo of one of his Wall Drawings guidelines instead. Debated between a broader summary of his contributions and a timeline of his life. Decided to go with the latter and began including a couple of the details.
+
+**Thoughts:** I felt pretty unmotivated to learn every bit of Bootstrap as well as to read through all the details that are online about LeWitt's life, even though those are the points of this project.
+
+**Link to Work:** [Tribute Page](https://codepen.io/tymeart/pen/LWRVPe?editors=1100)
