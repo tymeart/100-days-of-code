@@ -520,6 +520,6 @@ Installed Hub so I can create Github repos from command line.
 
 **Today's Progress:** Started working on the visuals of a pretend milk tea review blog.
 
-**Thoughts:** I didn't feel like working on the tribute page, so I asked my friend what website I should make. Her answer: a milk tea review blog. I had an initial idea for the layout but might go in a completely different direction. I asked my friend for suggestions on the blog title (probably wouldn't stick with it if this were real) and color pairs.
+**Thoughts:** I didn't feel like working on the tribute page, so I asked my friend what website I should make. Her answer: a milk tea review blog. I had an initial idea for the layout but might go in a completely different direction. I asked my friend for suggestions on the blog title (probably wouldn't stick with it if this were real) and color pairs. This was pretty fun! I think it's been a while since I've really played and let myself experience the creative process like this without worrying about the practicalities.
 
 **Link to Work:** [Milk Tea Review Blog](http://codepen.io/tymeart/pen/LWbgRL?editors=1100)
