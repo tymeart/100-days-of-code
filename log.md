@@ -515,3 +515,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I felt pretty unmotivated to learn every bit of Bootstrap as well as to read through all the details that are online about LeWitt's life, even though those are the points of this project.
 
 **Link to Work:** [Tribute Page](https://codepen.io/tymeart/pen/LWRVPe?editors=1100)
+
+### Day 65: March 7th, 2017
+
+**Today's Progress:** Started working on the visuals of a pretend milk tea review blog.
+
+**Thoughts:** I didn't feel like working on the tribute page, so I asked my friend what website I should make. Her answer: a milk tea review blog. I had an initial idea for the layout but might go in a completely different direction. I asked my friend for suggestions on the blog title (probably wouldn't stick with it if this were real) and color pairs.
+
+**Link to Work:** [Milk Tea Review Blog](http://codepen.io/tymeart/pen/LWbgRL?editors=1100)
