@@ -523,3 +523,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I didn't feel like working on the tribute page, so I asked my friend what website I should make. Her answer: a milk tea review blog. I had an initial idea for the layout but might go in a completely different direction. I asked my friend for suggestions on the blog title (probably wouldn't stick with it if this were real) and color pairs. This was pretty fun! I think it's been a while since I've really played and let myself experience the creative process like this without worrying about the practicalities.
 
 **Link to Work:** [Milk Tea Review Blog](http://codepen.io/tymeart/pen/LWbgRL?editors=1100)
+
+### Day 66: March 8th, 2017
+
+**Today's Progress:** Tried to get the posts to wrap around the circle using shape-outside but haven't figured out why it's not working yet.
+
+**Thoughts:** The circle div itself seems to have everything it's supposed to, so I wonder if the issue is the fact that my list of posts is a flex box?
+
+**Link to Work:** [Milk Tea Review Blog](https://codepen.io/tymeart/pen/LWbgRL?editors=1100)
