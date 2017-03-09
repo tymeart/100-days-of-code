@@ -531,3 +531,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** The circle div itself seems to have everything it's supposed to, so I wonder if the issue is the fact that my list of posts is a flex box?
 
 **Link to Work:** [Milk Tea Review Blog](https://codepen.io/tymeart/pen/LWbgRL?editors=1100)
+
+### Day 67: March 9th, 2017
+
+**Today's Progress:** I finally got the text to wrap around the circle!
+
+**Thoughts:** Eventually I realized that it wasn't my circle that was wrong, because it met the requirements for shape-outside to be used. I hid my original text and pasted in some lorem ipsum in paragraph tags, and to my surprise it wrapped the way I wanted it to! I tried wrapping the paragraph tags into list items in an unordered list, the way I had my original text, and it still worked. After commenting out some properties to see how it affected the text, I discovered that my problem was that I had set my ul to a certain width.
+
+**Link to Work:** [Milk Tea Review Blog](https://codepen.io/tymeart/pen/LWbgRL?editors=1100)
