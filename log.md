@@ -547,3 +547,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I spent more time looking for how to use shape-inside than actually trying it out. I'm excited to figure this out!
 
 **Link to Work:** [CSS Shapes](http://codepen.io/tymeart/pen/qrrQVo?editors=1100)
+
+### Day 69: March 11th, 2017
+
+**Today's Progress:** Worked on Material-UI card components for my team's project at a React hackathon. We're building a way for groups to vote on restaurants they would like to eat at and ultimately to make a reservation for the one with the most upvotes. 
+
+**Thoughts:** Styling in React is weird. I'm surprised how rigid Material-UI is compared to Semantic UI and maybe Bootstrap? I can't seem to change the width of these cards I have; I can only change the width of the container that holds them.
+
+**Link to Work:** [Reserve.io](https://github.com/tymeart/reserve.io/commit/81797b62eae76e07d27b8b43babf30b35f743154)
