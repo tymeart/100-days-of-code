@@ -555,3 +555,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Styling in React is weird. I'm surprised how rigid Material-UI is compared to Semantic UI and maybe Bootstrap? I can't seem to change the width of these cards I have; I can only change the width of the container that holds them.
 
 **Link to Work:** [Reserve.io](https://github.com/tymeart/reserve.io/commit/81797b62eae76e07d27b8b43babf30b35f743154)
+
+### Day 70: March 12th, 2017
+
+**Today's Progress:** Continued refining our UI. Found out how to change the width of each card so there would be a couple in a row rather than all in a column. Set a couple of breakpoints so our app would be a little bit more responsive. Learned some things about git workflow.
+
+**Thoughts:** My knowledge of React is so little that I was able to only do some styling. Working on this project was a good review of that small part of React, but I should have pushed myself to learn more.
+
+**Link to Work:** [Reserve.io](https://github.com/tymeart/reserve.io/commit/dfc65777f98b8a2813b7fbf9d69332aba6c673ec)
