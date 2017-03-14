@@ -563,3 +563,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** My knowledge of React is so little that I was able to only do some styling. Working on this project was a good review of that small part of React, but I should have pushed myself to learn more.
 
 **Link to Work:** [Reserve.io](https://github.com/tymeart/reserve.io/commit/dfc65777f98b8a2813b7fbf9d69332aba6c673ec)
+
+### Day 71: March 13th, 2017
+
+**Today's Progress:** Set up the project with Gulp.
+
+**Thoughts:** Am I ever going to remember the viewport meta tag without looking it up? haha Gulp is much faster than Grunt, and the config file is easier to read! I have no idea yet how I'm going to make this game work.
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/blob/master/index.html)
