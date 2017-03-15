@@ -571,3 +571,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Am I ever going to remember the viewport meta tag without looking it up? haha Gulp is much faster than Grunt, and the config file is easier to read! I have no idea yet how I'm going to make this game work.
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/blob/master/index.html)
+
+### Day 72: March 14th, 2017
+
+**Today's Progress:** Figured out that I linked my stylesheet in the HTML file wrong lol. Styled the play buttons a bit and added a start button and strict mode button.
+
+**Thoughts:** After trying to get my random quote machine to work on my phone (and not doing so well), I'm debating about whether to use flexbox and percentages in my CSS for better older browser compatibility.
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/0daeac9af3d71e874be636dd61231260b3b869c6)
