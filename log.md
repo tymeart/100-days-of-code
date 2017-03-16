@@ -579,3 +579,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** After trying to get my random quote machine to work on my phone (and not doing so well), I'm debating about whether to use flexbox and percentages in my CSS for better older browser compatibility.
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/0daeac9af3d71e874be636dd61231260b3b869c6)
+
+### Day 73: March 15th, 2017
+
+**Today's Progress:** Renamed the divs related to the buttons that will be pressed during play. Positioned the play buttons so they were two on top and two on the bottom, then added a clipping path to the container to make it look like a circle. Spaced out the play button container and the controls.
+
+**Thoughts:** Decided to just go with flexbox... Since I'm nearly done with styling though, I'll have to start thinking about the logic behind the game soon.
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/5a12f8c67aea406fba543ccb5f7233c869b0a76f)
