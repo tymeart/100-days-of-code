@@ -587,3 +587,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Decided to just go with flexbox... Since I'm nearly done with styling though, I'll have to start thinking about the logic behind the game soon.
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/5a12f8c67aea406fba543ccb5f7233c869b0a76f)
+
+### Day 74: March 16th, 2017
+
+**Today's Progress:** Changed the play button colors and made the hover states lighter versions of those colors. Styled the control panel and its elements. Started learning how to make a toggle switch in CSS for the strict mode.
+
+**Thoughts:** This is the first time I'm not making my buttons flat! Exciting~
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/2f2067648784a09449a6ba320e622893a4afa4ad)
