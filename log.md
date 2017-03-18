@@ -595,3 +595,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** This is the first time I'm not making my buttons flat! Exciting~
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/2f2067648784a09449a6ba320e622893a4afa4ad)
+
+### Day 75: March 17th, 2017
+
+**Today's Progress:** Worked on making a toggle switch in isolation so I can add one into my Simon game in place of the Strict button.
+
+**Thoughts:** I think I should go back and review how absolute and relative positioning work. Also display: block/inline-block/inline.
+
+**Link to Work:** [Toggle Switch](https://codepen.io/tymeart/pen/mWqwzm?editors=1100)
