@@ -603,3 +603,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I think I should go back and review how absolute and relative positioning work. Also display: block/inline-block/inline.
 
 **Link to Work:** [Toggle Switch](https://codepen.io/tymeart/pen/mWqwzm?editors=1100)
+
+### Day 76: March 18th, 2017
+
+**Today's Progress:** Added a toggle switch in place of the strict button.
+
+**Thoughts:** Sass let me do some crazy nesting, but it's probably not a good idea to write like that since it's difficult to understand? Even with the nesting, my knowlede of sass is so limited and I feel like it could've been written it DRYer.
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/2bf446eea344ab828092aa27e03e620d8ffbfa0a)
