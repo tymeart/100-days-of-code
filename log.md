@@ -614,7 +614,7 @@ Installed Hub so I can create Github repos from command line.
 
 ### Day 77: March 19th, 2017
 
-**Today's Progress:** Made the last style adjustments for the time being. Changed the blue because it was too similar to the green. Lightened the yellow a bit. Made the background a little bit lighter and changed the control panel grays to more yellow hues to match the background. Began thinking about how the game is actually going to work.
+**Today's Progress:** Made the last style adjustments for the time being. Changed the blue because it was too similar to the green. Lightened the yellow a bit. Made the background a little bit lighter and changed the control panel grays to yellower hues to match the background. Began thinking about how the game is actually going to work.
 
 **Thoughts:** I'm relieved that I have some idea how to make this work.
 
