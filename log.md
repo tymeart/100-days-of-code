@@ -619,3 +619,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I'm relieved that I have some idea how to make this work.
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/e0b4eac09533d66a58089a5319e1a8d9d7457121)
+
+### Day 78: March 20th, 2017
+
+**Today's Progress:** Began coding out the randomizing of button light-ups. The random order is done, I think, but now I'm trying to figure out how to actually make the buttons light up.
+
+**Thoughts:** I think this randomizer will have to be a function. I feel like maybe the "proper" way to do this is to think about what functions you need first, and then write them, rather than writing code and grouping it into functions??
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/91c54f638c84cf90cd686d7787d9aac4537b8561)
