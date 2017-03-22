@@ -627,3 +627,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I think this randomizer will have to be a function. I feel like maybe the "proper" way to do this is to think about what functions you need first, and then write them, rather than writing code and grouping it into functions??
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/91c54f638c84cf90cd686d7787d9aac4537b8561)
+
+### Day 79: March 21st, 2017
+
+**Today's Progress:** I spent most of the afternoon trying to get freeCodeCamp to run locally (MongoDB!) and looking through issues to possibly take on, but I don't think that counts as coding. I started learning about CSS grid layout. Didn't get any visible results, and I wonder if it's my browser.
+
+**Thoughts:** At first, it was quite difficult to wrap my head around how to use a grid layout, and I was thinking about it like I think about flexbox. I'm beginning to see that's like drawing out a structure/scaffold and then placing items within (or even outside!) it. It think it'll be really difficult for me to make these layouts without drawing out the grid structure first on paper, because I find it hard to visualize the columns and rows.
+
+**Link to Work:** [CSS Grid](https://codepen.io/tymeart/pen/BWrPGK)
