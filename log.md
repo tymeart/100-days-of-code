@@ -635,3 +635,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** At first, it was quite difficult to wrap my head around how to use a grid layout, and I was thinking about it like I think about flexbox. I'm beginning to see that's like drawing out a structure/scaffold and then placing items within (or even outside!) it. I think it'll be really difficult for me to make these layouts without drawing out the grid structure first on paper, because I find it hard to visualize the columns and rows.
 
 **Link to Work:** [CSS Grid](https://codepen.io/tymeart/pen/BWrPGK)
+
+### Day 80: March 22nd, 2017
+
+**Todays' Progress:** Changed the lightened colors to 20% lighter. Changed the count__number class to an id and initiate a count variable to keep track of what round the game is on. Have the count increase every round. Started thinking about updating the count display. Changed demoArr to computerPlays to be clear that the array is what the computer "presses." Changed the ids of the play buttons to reflect the colors instead of numbers. Go through each item in computerPlays, add the lightup class to each button, and remove it after 1 second.
+
+**Thoughts:** I'm still stuck on how to get the buttons to actually light up, since each button is a different color. Overlay the button with white? I was extremely reluctant to work on this today, partly because I'm unsure how to do what I need to do, partly because I'm not that interested in this project... But I feel like since I already started, I might as well try to finish.
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/3bd688761e09f2e08b54cc892d8b52617b5e535b)
