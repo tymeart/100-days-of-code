@@ -638,8 +638,16 @@ Installed Hub so I can create Github repos from command line.
 
 ### Day 80: March 22nd, 2017
 
-**Todays' Progress:** Changed the lightened colors to 20% lighter. Changed the count__number class to an id and initiate a count variable to keep track of what round the game is on. Have the count increase every round. Started thinking about updating the count display. Changed demoArr to computerPlays to be clear that the array is what the computer "presses." Changed the ids of the play buttons to reflect the colors instead of numbers. Go through each item in computerPlays, add the lightup class to each button, and remove it after 1 second.
+**Todays' Progress:** Changed the lightened colors to 20% lighter. Changed the count number class to an id and initiate a count variable to keep track of what round the game is on. Have the count increase every round. Started thinking about updating the count display. Changed demoArr to computerPlays to be clear that the array is what the computer "presses." Changed the ids of the play buttons to reflect the colors instead of numbers. Go through each item in computerPlays, add the lightup class to each button, and remove it after 1 second.
 
 **Thoughts:** I'm still stuck on how to get the buttons to actually light up, since each button is a different color. Overlay the button with white? I was extremely reluctant to work on this today, partly because I'm unsure how to do what I need to do, partly because I'm not that interested in this project... But I feel like since I already started, I might as well try to finish.
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/3bd688761e09f2e08b54cc892d8b52617b5e535b)
+
+### Day 81: March 25th, 2017
+
+**Today's Progress:** While looking at a pen that happened to be on the front page of Codepen, I realized I could change an element's opacity on hover. I believe this is somethhing I already knew, *and* it's how my friend told me he did the "light-ups" in his Simon game. Perhaps I was being stubborn about finding a way to do it by changing the background color of the buttons... After finally getting past this button light-up issue, I pulled some of my code into separate functions and began working on handling the user's button presses.
+
+**Thoughts:** I'm wondering if making all these separate functions is a good/bad practice? I feel so much better about working on this project now that I've cleared a major block.
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/fc7dc0491bcea0186b44f5b455a6a0a31f52e7d8)
