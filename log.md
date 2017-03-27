@@ -651,3 +651,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I'm wondering if making all these separate functions is a good/bad practice? I feel so much better about working on this project now that I've cleared a major block.
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/fc7dc0491bcea0186b44f5b455a6a0a31f52e7d8)
+
+### Day 82: March 26th, 2017
+
+**Today's Progress:** Finished the basic first iteration of what I planned in my pseudocode. Began realizing how complex this is going to get. Started looking in to how to get the buttons to play audio when clicked.
+
+**Thoughts:** I haven't actually tried any of the code I've written so far to see if it does what I want it to. I'm certain the setTimeouts won't work inside the for loops I've set them in. Need to figure out how that actually works...
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/5554a90969cbb8bccb9c48014282618216459d6d)
