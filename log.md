@@ -659,3 +659,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I haven't actually tried any of the code I've written so far to see if it does what I want it to. I'm certain the setTimeouts won't work inside the for loops I've set them in. Need to figure out how that actually works...
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/5554a90969cbb8bccb9c48014282618216459d6d)
+
+### Day 83: March 27th, 2017
+
+**Today's Progress:** I added instances of the audio clips that should play when the play buttons are chosen by the computer/clicked by the user. For running the computer plays, I moved the adding and removing of the lightup class inside a switch statement. For getting the user's button clicks, I added an switch statment to play the correct sounds.
+
+**Thoughts:** My refactoring of the runComputerPlays function made it a lot longer and more repetitive...
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/14830933c9c42f289b1126ebef164382f78d52f0)
