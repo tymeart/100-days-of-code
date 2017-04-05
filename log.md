@@ -667,3 +667,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** My refactoring of the runComputerPlays function made it a lot longer and more repetitive...
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/14830933c9c42f289b1126ebef164382f78d52f0)
+
+### Day 84: April 4th, 2017
+
+**Today's Progress:** I started a new project! I started adding styles to get the basic positioning and sizing of the main components.
+
+**Thoughts:** I haven't gotten to the new and difficult things yet, but I'm excited to work on something that I would use often!
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/689ae0cf9bf72e305a2bdada943e8e7fdf9a7b66)
