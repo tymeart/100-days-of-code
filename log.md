@@ -686,7 +686,7 @@ Installed Hub so I can create Github repos from command line.
 
 ### Day 86: April 7th, 2017
 
-**Today's Progress:** Increased font size. Styled elements to have rounded corners. Started positioning the divs withing the collection div.
+**Today's Progress:** Increased font size. Styled elements to have rounded corners. Started positioning the divs within the collection div.
 
 **Thoughts:** Positioning elements so they wrap onto the next row at smaller viewports didn't seem like it would be difficult. That part was okay, but it was the spacing on the (current) second row that is the problem. I don't think flexbox can arrange all the items to one side and leave spaces to the right when there aren't enough items to fill the whole row. Guess I should learn CSS grid!
 
