@@ -675,3 +675,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I haven't gotten to the new and difficult things yet, but I'm excited to work on something that I would use often!
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/689ae0cf9bf72e305a2bdada943e8e7fdf9a7b66)
+
+### Day 85: April 6th, 2017
+
+**Today's Progress:** Installed Chromedriver to be able to run axe-cli tests in Chrome, but it turned out I didn't really even need to since the default is PhantomJS. Tested my portfolio page, Pomodoro Timer, and Wikipedia Viewer. My portfolio page had no violations, and the Pomodoro Timer only had one easily fixable one. Wikipedia Viewer had the most violations (3), so I went through and fixed them.
+
+**Thoughts:** The button on the Wikipedia Viewer failed the color contrast rule, which surprised me because I thought it was a decent contrast. Seeing how dark a color has to be against white text for a good contrast rating was pretty eye-opening.
+
+**Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/4915543cb740adb1da8da2a36491f02bd2a63e2e), [Wikipedia Viewer](https://github.com/tymeart/wikipedia-viewer/commit/6b4711479d3e4526b9c0f65f8b785bd08dfba5b1)
