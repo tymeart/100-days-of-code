@@ -683,3 +683,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** The button on the Wikipedia Viewer failed the color contrast rule, which surprised me because I thought it was a decent contrast. Seeing how dark a color has to be against white text for a good contrast rating was pretty eye-opening.
 
 **Link to Work:** [Pomodoro Timer](https://github.com/tymeart/pomodoro/commit/4915543cb740adb1da8da2a36491f02bd2a63e2e), [Wikipedia Viewer](https://github.com/tymeart/wikipedia-viewer/commit/6b4711479d3e4526b9c0f65f8b785bd08dfba5b1)
+
+### Day 86: April 7th, 2017
+
+**Today's Progress:** Increased font size. Styled elements to have rounded corners. Started positioning the divs withing the collection div.
+
+**Thoughts:** Positioning elements so they wrap onto the next row at smaller viewports didn't seem like it would be difficult. That part was okay, but it was the spacing on the (current) second row that is the problem. I don't think flexbox can arrange all the items to one side and leave spaces to the right when there aren't enough items to fill the whole row. Guess I should learn CSS grid!
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/a64755f4568a7e36896c7c217b74593694052fd6)
