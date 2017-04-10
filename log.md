@@ -704,6 +704,6 @@ Installed Hub so I can create Github repos from command line.
 
 **Today's Progress:** Included a way to track what mode the game is in (strict or regular) by creating a variable and changing its value whenever the state of the strict mode toggle is changed. Modified the condition at the end of startGame to break out of the loop only when strict mode is on. Added a click listener on the start button so startGame will run when it is clicked. Somehow I had two separate sets of styles for the start class, so I combined them when I changed the class to an id. Also removed the styling that made the play buttons change colors on hover.
 
-**Thoughts:** I think I can finally check to see if any of my code works. I probably should have done so a long time ago... 
+**Thoughts:** I think I can finally check to see if any of my code works. I probably should have done so a long time ago... I need to remember to put a limit on the number of rounds. 
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/1f95562dfe679b3b4bdd86121b54f93b23d68e76)
