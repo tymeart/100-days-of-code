@@ -699,3 +699,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I'm kind of surprised that I actually felt like working on this project today. My code is still terribly messy, but for now I'm going to leave the refactoring for later.
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/4527d40a951a4dcf9632d72604c5f437c7313a8d)
+
+### Day 88: April 10th, 2017
+
+**Today's Progress:** Included a way to track what mode the game is in (strict or regular) by creating a variable and changing its value whenever the state of the strict mode toggle is changed. Modified the condition at the end of startGame to break out of the loop only when strict mode is on. Added a click listener on the start button so startGame will run when it is clicked. Somehow I had two separate sets of styles for the start class, so I combined them when I changed the class to an id. Also removed the styling that made the play buttons change colors on hover.
+
+**Thoughts:** I think I can finally check to see if any of my code works. I probably should have done so a long time ago... 
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/1f95562dfe679b3b4bdd86121b54f93b23d68e76)
