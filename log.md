@@ -691,3 +691,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Positioning elements so they wrap onto the next row at smaller viewports didn't seem like it would be difficult. That part was okay, but it was the spacing on the (current) second row that is the problem. I don't think flexbox can arrange all the items to one side and leave spaces to the right when there aren't enough items to fill the whole row. Guess I should learn CSS grid!
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/a64755f4568a7e36896c7c217b74593694052fd6)
+
+### Day 87: April 9th, 2017
+
+**Today's Progress:** Wrapped the getComputerPlays call in a for loop so it runs the appropriate number of times for the round number. Changed the var keyword to let in the for loop that includes a setTimeout. Added the lang attribute to the html tag. Moved the if statement at the end that compares the computerPlays and userPlays into the startGame function, modified it so it would break out of the loop if the user clicks the wrong button.
+
+**Thoughts:** I'm kind of surprised that I actually felt like working on this project today. My code is still terribly messy, but for now I'm going to leave the refactoring for later.
+
+**Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/4527d40a951a4dcf9632d72604c5f437c7313a8d)
