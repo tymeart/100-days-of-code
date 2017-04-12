@@ -707,3 +707,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I think I can finally check to see if any of my code works. I probably should have done so a long time ago... I need to remember to put a limit on the number of rounds. 
 
 **Link to Work:** [Simon Game](https://github.com/tymeart/simon/commit/1f95562dfe679b3b4bdd86121b54f93b23d68e76)
+
+### Day 89: April 11th, 2017
+
+**Today's Progress:** I did the little exercise at the end of the introductory Node and NPM lesson in Rithm School's free online courses. It had me use fs.appendFile and the request module to get data from an API, which are things I'd never done in Node before. Also continued through the intro to Express lessons but haven't tackled the exercise at the end of that yet.
+
+**Thoughts:** The basic Node exercise was pretty simple, but the Express stuff was harder to understand, I guess because I'm not too familiar with routing and request & response yet. It's still kind of confusing.
+
+**Link to Work:** [Rithm School Node exercise](https://github.com/tymeart/rithm-school-exercises/blob/master/node-exercises/main.js)
