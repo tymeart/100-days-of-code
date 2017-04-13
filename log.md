@@ -722,4 +722,4 @@ Installed Hub so I can create Github repos from command line.
 
 **Thoughts:** I still have trouble getting websites to look okay on different devices, and that's kind of disappointing.
 
-**Link to Work:** [Portfolio page](https://github.com/tymeart/tymeart.github.io/commit/9a03025f4d08feb0788a98e60c57fa610b4d7775)
+**Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/9a03025f4d08feb0788a98e60c57fa610b4d7775)
