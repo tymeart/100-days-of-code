@@ -715,3 +715,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** The basic Node exercise was pretty simple, but the Express stuff was harder to understand, I guess because I'm not too familiar with routing and request & response yet. It's still kind of confusing.
 
 **Link to Work:** [Rithm School Node exercise](https://github.com/tymeart/rithm-school-exercises/blob/master/node-exercises/main.js)
+
+### Day 90: April 13th, 2017
+
+**Today's Progress:** Changed the font styles. Kept trying different heights for the sections. Fussed with getting certain elements centered on older browsers.
+
+**Thoughts:** I still have trouble getting websites to look okay on different devices, and that's kind of disappointing.
+
+**Link to Work:** [Portfolio page](https://github.com/tymeart/tymeart.github.io/commit/9a03025f4d08feb0788a98e60c57fa610b4d7775)
