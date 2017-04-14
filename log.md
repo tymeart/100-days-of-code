@@ -723,3 +723,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I still have trouble getting websites to look okay on different devices, and that's kind of disappointing.
 
 **Link to Work:** [Portfolio Page](https://github.com/tymeart/tymeart.github.io/commit/9a03025f4d08feb0788a98e60c57fa610b4d7775)
+
+### Day 91: April 14th, 2017
+
+**Today's Progress:** Worked on the Pug template for the '/' route. Had to look up how to iterate through an array and have it display each as a list item in an unordered list. Had to look up how to link a stylesheet and how the folder structure has to be set up to be used with Express. Started trying to put a search bar on the index page as well, but haven't figured out the template inheritance yet.
+
+**Thoughts:** I was surprised how long doing these Pug templates took.
+
+**Link to Work:** [Rithm School Intro to Express exercise](https://github.com/tymeart/rithm-school-exercises/commit/4c6e67ecdd49deee32c31013204044264d2e63b4)
