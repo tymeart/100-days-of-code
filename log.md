@@ -731,3 +731,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I was surprised how long doing these Pug templates took.
 
 **Link to Work:** [Rithm School Intro to Express exercise](https://github.com/tymeart/rithm-school-exercises/commit/4c6e67ecdd49deee32c31013204044264d2e63b4)
+
+### Day 92: April 17th, 2017
+
+**Today's Progress:** Finally got past the first issue of getting the search form to display on the index page. It turned out that I linked the wrong file in app.js because I wasn't understanding how the template inheritance was working. Added the other routes and functionality pretty easily and finally finished this Intro to Express module.
+
+**Thoughts:** I'm excited to be making progress! I really want to get to the MongoDB section soon (this week, definitely!). So far these exercises by Rithm School are pretty good. They aren't entirely just copy-the-examples kind of problems and require you to look things up.
+
+**Link to Work:** [Rithm School Intro to Express exercise](https://github.com/tymeart/rithm-school-exercises/commit/1ccdbde382c198ae38af5ae8e840fccd8455fed9)
