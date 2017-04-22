@@ -739,3 +739,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I'm excited to be making progress! I really want to get to the MongoDB section soon (this week, definitely!). So far these exercises by Rithm School are pretty good. They aren't entirely just copy-the-examples kind of problems and require you to look things up.
 
 **Link to Work:** [Rithm School Intro to Express exercise](https://github.com/tymeart/rithm-school-exercises/commit/1ccdbde382c198ae38af5ae8e840fccd8455fed9)
+
+### Day 93: April 21st, 2017
+
+**Today's Progress:** Began rendering some of the routes (index with list, add to the list form, individual item page, edit form).
+
+**Thoughts:** Routes are so confusing, but I think most of my pain is coming from not fully understanding Pug and how templates are inherited. Learned how to use includes, which is probably what I would use if this were a single-page app.
+
+**Link to Work:** [Rithm School Express Middleware and Routing exercise](https://github.com/tymeart/rithm-school-exercises/commit/12e9f86bf5bf980b85966952bb4f09c2f249d9b2)
