@@ -747,3 +747,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Routes are so confusing, but I think most of my pain is coming from not fully understanding Pug and how templates are inherited. Learned how to use includes, which is probably what I would use if this were a single-page app.
 
 **Link to Work:** [Rithm School Express Middleware and Routing exercise](https://github.com/tymeart/rithm-school-exercises/commit/12e9f86bf5bf980b85966952bb4f09c2f249d9b2)
+
+### Day 94: April 24th, 2017
+
+**Today's Progress:** Added the routes for POST, PATCH, and DELETE. I spent a while trying to get my edit page to render with the passed in data, but I realized it wasn't working probably because I had hard coded the items in the shopping list, so they didn't have a name and id, which I was trying to access. Moved on, and now I'm stuck trying to figure out why the POST request doesn't work.
+
+**Thoughts:** I'm surprised at how long it takes for me to get through these exercises.
+
+**Link to Work:** [Rithm School Express Middleware and Routing exercise](https://github.com/tymeart/rithm-school-exercises/commit/7a3cbeb5704eaaf3f69a9909f223168be4be3a32)
