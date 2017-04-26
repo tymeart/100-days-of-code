@@ -755,3 +755,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I'm surprised at how long it takes for me to get through these exercises.
 
 **Link to Work:** [Rithm School Express Middleware and Routing exercise](https://github.com/tymeart/rithm-school-exercises/commit/7a3cbeb5704eaaf3f69a9909f223168be4be3a32)
+
+### Day 95: April 25th, 2017
+
+**Today's Progress:** Got the POST request to work by adding /items/ before the action I had. Made it so the list of items showed the names of the items rather than the entire objects. Next, I couldn't figure out why my edit page wasn't rendering properly. The item data that I passed to the template kept ending up undefined and so it was blank where there was supposed to be text. I finally asked for help and learned that I was getting undefined because the console.logs and rendering were happening before the work of finding the item in an array was finishing. Ah, Node's asynchronicity. Kind of learned how to write a promise and used that instead.
+
+**Thoughts:** I don't think I would've figured out that it was async issues that were keeping my app from running the way I wanted it to. Who knows how much longer I'd be stuck on this problem if I hadn't asked someone else. I'm pretty much copying Rithm School's examples, but they never mentioned anything about async.
+
+**Link to Work:** [Rithm School Express Middleware and Routing exercise](https://github.com/tymeart/rithm-school-exercises/commit/6085290e672063b0b22ac85fdc8934e608d01906)
