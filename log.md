@@ -763,3 +763,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I don't think I would've figured out that it was async issues that were keeping my app from running the way I wanted it to. Who knows how much longer I'd be stuck on this problem if I hadn't asked someone else. I'm pretty much copying Rithm School's examples, but they never mentioned anything about async.
 
 **Link to Work:** [Rithm School Express Middleware and Routing exercise](https://github.com/tymeart/rithm-school-exercises/commit/6085290e672063b0b22ac85fdc8934e608d01906)
+
+### Day 96: April 26th, 2017
+
+**Today's Progress:** I rewrote the /items/:id page to render a Pug file and included the delete form in it. Instead of a form with a text field, I made it just a button. Moved the actual splicing of the items array to delete an item to the main part of the promise.
+
+**Thoughts:** Glad to be finally done with this section! Moving on to MongoDB...
+
+**Link to Work:** [Rithm School Express Middleware and Routing exercise](https://github.com/tymeart/rithm-school-exercises/commit/141c0f829de7915568b741c8a898e3f57201cb46)
