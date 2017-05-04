@@ -771,3 +771,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Glad to be finally done with this section! Moving on to MongoDB...
 
 **Link to Work:** [Rithm School Express Middleware and Routing exercise](https://github.com/tymeart/rithm-school-exercises/commit/141c0f829de7915568b741c8a898e3f57201cb46)
+
+### Day 97: May 4th, 2017
+
+**Today's Progress:** Refactored the index.html into Pug files. Brought in Semantic UI, but haven't figured out how to make my grid segments look good. Maybe using segments isn't the answer... Added a fixed navbar at the top, but I haven't figured out how to align the items the way I want. It might just be with CSS that I have to write myself.
+
+**Thoughts:** I was really reluctant to start working on even the view for this project today. The thought of dealing with the complexities of responsive grid layout is *still* quite intimidating. I've also been putting off digging into the backend for this project even though that's what I've been focusing on trying to learn and this is a great opportunity to apply that knowledge.
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/f6f1bd858dcc24041ca7498f254167c84f4105fa)
