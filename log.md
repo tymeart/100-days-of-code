@@ -779,3 +779,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I was really reluctant to start working on even the view for this project today. The thought of dealing with the complexities of responsive grid layout is *still* quite intimidating. I've also been putting off digging into the backend for this project even though that's what I've been focusing on trying to learn and this is a great opportunity to apply that knowledge.
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/f6f1bd858dcc24041ca7498f254167c84f4105fa)
+
+### Day 98: May 8th, 2017
+
+**Today's Progress:** Included Mongoose and set up the schema and model. Decided to let each emoticon have a category, which will probably be an emotion associated with the emoticon. Started using some of the Mongo methods in the routes. Put an error message in the error Pug file to be rendered when an error occurs, for now.
+
+**Thoughts:** Wasn't sure whether to name the schema something more general ("Item") or specific ("Emoticon") in case this is used for something other than emoticons.
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/34ed1177a6210a109ded1462918005e52fc5e905)
