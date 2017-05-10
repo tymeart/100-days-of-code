@@ -787,3 +787,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** Wasn't sure whether to name the schema something more general ("Item") or specific ("Emoticon") in case this is used for something other than emoticons.
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/34ed1177a6210a109ded1462918005e52fc5e905)
+
+### Day 99: May 9th, 2017
+
+**Today's Progress:** Moved the emoticon schema to its own folder and added a schema for users as well. I realized I would have to nest the routes, and that /add would probably come after /collection, so I changed that. Included an index.js file to export the models to the app.js (I'm kind of guessing that's what it does). I moved the routes I had out of the app.js file and into their own folder. Added another file for the user routes.
+
+**Thoughts:** I'm pretty confused about nested routes... I have a model for the emoticons, but I want the routes to be /collection. Am I doing this right.
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/777636d7b0cc3a4c7f678274e8d8ae41a281a935)
