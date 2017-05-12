@@ -795,3 +795,11 @@ Installed Hub so I can create Github repos from command line.
 **Thoughts:** I'm pretty confused about nested routes...
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/777636d7b0cc3a4c7f678274e8d8ae41a281a935)
+
+### Day 100: May 11th, 2017
+
+**Today's Progress:** Focused on the userRoutes. Figured out what routes I need for the user resource and began filling out the GET routes. Created a new folder for just the user views. Most of the rest of them will probably be filed under emoticon views. I ran Mongo and the server and ran into the problem of trying to connect to Mongoose twice. I was just following example when I included mongoose.connect() in models/index.js, but it wasn't necessary, I guess.
+
+**Thoughts:** I was pretty reluctant to work yesterday because I didn't really know what to do next, but sitting down, thinking about, and writing out the routes really helped. I have a better idea of what to do next, so I'm feeling better.
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/308d62e6245f187fcf2f8c31c54708a95b6bb670)
