@@ -5,6 +5,7 @@
 
 #### Start Date
 January 2nd, 2017 (round 1)
+
 May 12th, 2017 (round 2)
 
 ## Additional Rules
