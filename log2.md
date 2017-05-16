@@ -23,3 +23,11 @@
 **Thoughts:** I was super reluctant to work today. It's tough when you don't have a clear vision of what you need to do next. I kind of have an idea now, so hopefully tomorrow will be easier.
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/9c9f12a6677ae2953ff16ee95388976896b958d7)
+
+### Day 4: May 16th, 2017
+
+**Today's Progress:** Added `.catch()` to all the promises I have for basic error handling. I think this probably isn't the best way to do it? Need to look up best practice. Spent the longest time trying to figure out why my root page wasn't rendering at all, and it turned out it was because I had `Emoticon.find()` instead of `db.Emoticon.find()`! Finished the emoticons POST request by finding the current user in the database, creating a new document in the database with data from the form as well as the found user's id, and pushing the newly added emoticon to the user's emoticons array. There was a lot of editing of not-specific-enough action paths and accessing properties on objects rather than passing/rendering entire objects. Basically have the routes done, I think.
+
+**Thoughts:** I had help, but I feel good that I got a lot done today. Next step is styling and adding links to access the different routes.
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/d44e71d4e06d323a67540ce50188ce951640bcc1)
