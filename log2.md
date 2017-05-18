@@ -31,3 +31,11 @@
 **Thoughts:** I had help, but I feel good that I got a lot done today. Next step is styling and adding links to access the different routes.
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/d44e71d4e06d323a67540ce50188ce951640bcc1)
+
+### Day 5: May 17th, 2017
+
+**Today's Progress:** Thought about how to do the DELETE request in the emoticon routes but decided to move on to UI for today. Connected the form labels to the input fields in the form to add an emoticon. Added some Semantic UI classes to style the form. Attempted to get the navbar in the index page to look the way I want. I still haven't figured out how to center items, but I did manage to properly right-align items.
+
+**Thoughts:** Sometimes CSS frameworks are frustrating because you don't fully understand what's going on under the hood...
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/cf06939c1053176077c3f1bd7b665416784559aa)
