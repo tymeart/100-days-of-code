@@ -39,3 +39,11 @@
 **Thoughts:** Sometimes CSS frameworks are frustrating because you don't fully understand what's going on under the hood...
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/cf06939c1053176077c3f1bd7b665416784559aa)
+
+### Day 6: May 18th, 2017
+
+**Today's Progress:** Did parts of a few React tutorials. Decided to jump into the first React project on Free Code Camp. I created, rendered, and styled two components.
+
+**Thoughts:** Not sure if this project is actually as simple as it seems. At the moment it seems like it'd be okay to have just 2 main components.
+
+**Link to Work:** [Markdown Previewer](https://github.com/tymeart/markdown-previewer/commit/d060f697aa405c51029d73a9cb6b81d50c7dbf72)
