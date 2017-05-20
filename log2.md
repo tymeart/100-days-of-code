@@ -47,3 +47,11 @@
 **Thoughts:** Not sure if this project is actually as simple as it seems. At the moment it seems like it'd be okay to have just 2 main components.
 
 **Link to Work:** [Markdown Previewer](https://github.com/tymeart/markdown-previewer/commit/d060f697aa405c51029d73a9cb6b81d50c7dbf72)
+
+### Day 7: May 19th, 2017
+
+**Today's Progress:** Moved the navbar to base.pug so it's rendered on all pages. Added a container around all the block content on pages that didn't already have one, and styled that so the content wouldn't be hidden by the navbar. Added classes to h1's and buttons to style them. 
+
+**Thoughts:** I still have the hardest time trying to get whitespace in Pug, but I think maybe it's impossible to get it in certain cases doing it with the pipe character. I found out I can just interpolate it, so that's a relief!
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/982c02c8f10320f127d374df122378d32779de8b)
