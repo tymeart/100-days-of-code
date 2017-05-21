@@ -55,3 +55,11 @@
 **Thoughts:** I still have the hardest time trying to get whitespace in Pug, but I think maybe it's impossible to get it in certain cases doing it with the pipe character. I found out I can just interpolate it, so that's a relief!
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/982c02c8f10320f127d374df122378d32779de8b)
+
+### Day 8: May 20th, 2017
+
+**Today's Progress:** Mostly went through all the forms and styled them along with some headers and buttons I hadn't gotten to yet. Linked the "Add" link in the nav to the actual /new page. Centered all the main content on the page with flexbox. Deleted a couple of view files from the emoticons route that I didn't actually use.
+
+**Thoughts:** I think I've finished the most basic styling. There are still little things to do to make it look nicer, but I think it's time to move back into the backend. Still gotta do authentication!
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/cc0ba79c6ec04def642a56181ff9e5dcaca78513)
