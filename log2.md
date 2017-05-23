@@ -63,3 +63,11 @@
 **Thoughts:** I think I've finished the most basic styling. There are still little things to do to make it look nicer, but I think it's time to move back into the backend. Still gotta do authentication!
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/cc0ba79c6ec04def642a56181ff9e5dcaca78513)
+
+### Day 9: May 22nd, 2017
+
+**Today's Progress:** Changed the emoticon route index page from finding all the emoticons to finding one user, populating its emoticons array, and passing that data to the view file. Found out the POST request from trying to add an emoticon to the collection doesn't do what I want it to do. As far as I've figured out, it's perhaps because I'm pushing in the emoticon's id rather than its content.
+
+**Thoughts:** I was a bit excited to start adding in auth, but it looks like I have issues to sort out before that.
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/b0dcc4e11278fd88cce0428dd564d3f9f48ae19d)
