@@ -71,3 +71,11 @@
 **Thoughts:** I was a bit excited to start adding in auth, but it looks like I have issues to sort out before that.
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/b0dcc4e11278fd88cce0428dd564d3f9f48ae19d)
+
+### Day 10: May 23rd, 2017
+
+**Today's Progress:** Found out that newly added emoticons weren't rendering on the collection page because they weren't being saved after being pushed into the user's emoticons array. Used `.markModified()` and `.save()` to tell Mongo that the array had changed and to save it. It worked! Passed user to the index.pug file in the '/' route so base.pug would have access to the correct username in the links.
+
+**Thoughts:** There was less reluctance to start working today because I had an idea of what to do next. Got some help from Shav (wouldn't have known to use `.markModified()` otherwise), so solving problems was a little smoother.
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/4e0dc83f7c0b2b4e586ebb8416634386c60c1157)
