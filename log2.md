@@ -79,3 +79,11 @@
 **Thoughts:** There was less reluctance to start working today because I had an idea of what to do next. Got some help from Shav (wouldn't have known to use `.markModified()` otherwise), so solving problems was a little smoother.
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/4e0dc83f7c0b2b4e586ebb8416634386c60c1157)
+
+### Day 11: May 24th, 2017
+
+**Today's Progress:** Added a js folder to the public folder where I started writing the click handler for selecting emoticons to eventually delete. Forgot how to select and add event listeners using vanilla JavaScript, so I did a lot of Googling. Ended up taking some time learning about event propagation and event defaults. I have something that may or may not work at the moment.
+
+**Thoughts:** I got worried because if I were to be asked to write some kind of event handler in vanilla JS in an interview, I really don't know what I would have done. Same with explaining event propagation/default. Good thing it wasn't an interview and I was free to Google all the things!
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/eedf8435103c827da77124d7d8b0966acf8708af)
