@@ -87,3 +87,11 @@
 **Thoughts:** I got worried because if I were to be asked to write some kind of event handler in vanilla JS in an interview, I really don't know what I would have done. Same with explaining event propagation/default. Good thing it wasn't an interview and I was free to Google all the things!
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/eedf8435103c827da77124d7d8b0966acf8708af)
+
+### Day 12: May 25th, 2017
+
+**Today's Progress:** Had trouble linking my click handler code to my app. I thought all I had to do was put the file in the public folder, but it turns out you have to link to it with a script tag, which makes sense. Spent a while trying to figure out how to write the file path in the src, and it turns out you don't need to include `public/`. Added a background color to the hover state of the emoticon divs. Once I got it working, I made the 'selected' class toggle so the user can deselect.
+
+**Thoughts:** I'm glad I had someone to ask for help. Note: need to check the array of selections and remove emoticons from it when they're deselected.
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/2e58bef09b556253492eebdd397d0aaca6db76a5)
