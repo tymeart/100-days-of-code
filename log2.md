@@ -95,3 +95,11 @@
 **Thoughts:** I'm glad I had someone to ask for help. Note: need to check the array of selections and remove emoticons from it when they're deselected.
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/2e58bef09b556253492eebdd397d0aaca6db76a5)
+
+### Day 13: May 27th, 2017
+
+**Today's Progress:** Went back and reviewed the learnyounode exercises that involve the http module. Rewrote the last one I did using the bl module, which I somehow didn't use the first time around even though it's in the hints... Started working on the Juggling Async exercise, and what I have right now only works sometimes.
+
+**Thoughts:** I still haven't wrapped my head around async... Or rather, how to deal with async. :<
+ 
+**Link to Work:** [NodeSchool learnyounode workshopper](https://github.com/tymeart/learnyounode/commit/273ad1a523aceae5b26a5393e1ec6528c4498cda)
