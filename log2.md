@@ -103,3 +103,19 @@
 **Thoughts:** I still haven't wrapped my head around async... Or rather, how to deal with async. :<
  
 **Link to Work:** [NodeSchool learnyounode workshopper](https://github.com/tymeart/learnyounode/commit/273ad1a523aceae5b26a5393e1ec6528c4498cda)
+
+### Day 14: May 28th, 2017
+
+**Today's Progress:** Continued working on the Juggling Async exercise of learnyounode. Stuck the http get request in a function and ran that through a for loop, but it's not returning any data this way. This is practically the same as what I had before, I now realize. I searched for more hints but haven't fully understood those hints or solutions yet.
+
+**Thoughts:** It's frustrating because this is such a core part of Node and I can't figure out how to deal with it.
+
+**Link to Work:** [NodeSchool learnyounode workshopper](https://github.com/tymeart/learnyounode/commit/d0d209bc7e6e5270705aa2b205a83388239ea9e7)
+
+### Day 15: May 30th, 2017
+
+**Today's Progress:** Added a variable to keep track of the select mode and made it so you can toggle select mode by clicking the "Select" link in the navbar. Added a delete button below the emoticons container that appears when selectMode is true. Now user can select and click delete when the app is in select mode. In order to push the selected emoticons into the `selected` array, I wrote a function that pushes into the array if the emoticon doesn't already exist in it and removes the emoticon if it does already exist in the array. Started trying to figure out how to pass this array to the routes.
+
+**Thoughts:** I feel like I got a lot of work done today. Need to set up authentication before I can finish the delete route.
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/3bde929a83ee04655b485dc57712776407252d2d)
