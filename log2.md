@@ -119,3 +119,12 @@
 **Thoughts:** I feel like I got a lot of work done today. Need to set up authentication before I can finish the delete route.
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/3bde929a83ee04655b485dc57712776407252d2d)
+
+-----------------------------------------------
+### Day 1: July 31st, 2017
+
+**Today's Progress:** I went back to the markdown previewer project since I just finished FCC's React challenges and have a much better grasp of React now than when I started. I worked with what I had previously for a while, but it occurred to me that I couldn't pass the state around the way I wanted to. Then I realized that I could just move all the JSX into one component instead of separating the main one  into two smaller ones. I'm not sure it would have worked with the smaller components without Redux? So finally my input text was outputting things in the right place! Then I had to figure out how to get the HTML to render instead of text in tags. It turns out you have to pass the parsed markdown as a dangerouslySetInnerHTML prop.
+
+**Thoughts:** It feels good that I'm finally beginning to understand passing props in React! I was so lost in the beginning.
+
+**Link to Work:** [Markdown Previewer](https://github.com/tymeart/markdown-previewer/commit/9ad44e0ac51baf570c9fb7b2547c87278125ae5a)
