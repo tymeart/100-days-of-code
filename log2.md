@@ -136,3 +136,11 @@
 **Thoughts:** I was feeling so good about my progress yesterday and today, but I told someone about this app today and he was saying that my sticking everything into one component wasn't how you're supposed to use React. I realized he was right, but I was also really upset and felt dumb for being so happy that I figured it out when I really didn't...
 
 **Link to Work:** [Markdown Previewer](https://github.com/tymeart/markdown-previewer/commit/3ff03a688311e83e3c99e5eb9e5dadf4d538f5ee)
+
+### Day 3: August 2nd, 2017
+
+**Today's Progress:** Refactored my code so the App component is composed of several other components instead of rendering all the JSX itself. I pulled the header into the App component as well since it was weird to have it outside. Added a background color to the code blocks so it would be more obvious that they're lines of code.
+
+**Thoughts:** I was super confused at first.
+
+**Link to Work:** [Markdown Previewer](https://github.com/tymeart/markdown-previewer/commit/776bda027b54192269b3402f1a190088c4df8b0d)
