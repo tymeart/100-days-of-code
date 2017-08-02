@@ -128,3 +128,11 @@
 **Thoughts:** It feels good that I'm finally beginning to understand passing props in React! I was so lost in the beginning.
 
 **Link to Work:** [Markdown Previewer](https://github.com/tymeart/markdown-previewer/commit/9ad44e0ac51baf570c9fb7b2547c87278125ae5a)
+
+### Day 2: August 1st, 2017
+
+**Today's Progress:** Made various changes to the styling: set the same font for all text, changed some of the spacing, added purple coloring. Added a heading to the page for accessibility. Included a breakpoint media query so the app would look a little better on smaller viewports. Deployed to Github Pages.
+
+**Thoughts:** I was feeling so good about my progress yesterday and today, but I told someone about this app today and he was saying that my sticking everything into one component wasn't how you're supposed to use React. I realized he was right, but I was also really upset and felt dumb for being so happy that I figured it out when I really didn't...
+
+**Link to Work:** [Markdown Previewer](https://github.com/tymeart/markdown-previewer/commit/3ff03a688311e83e3c99e5eb9e5dadf4d538f5ee)
