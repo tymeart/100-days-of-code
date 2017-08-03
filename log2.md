@@ -141,6 +141,6 @@
 
 **Today's Progress:** Refactored my code so the App component is composed of several other components instead of rendering all the JSX itself. I pulled the header into the App component as well since it was weird to have it outside. Added a background color to the code blocks so it would be more obvious that they're lines of code.
 
-**Thoughts:** I was super confused at first, but after reviewing some of the React challenges on FCC, I figured out how to pass the props so the app worked the way I wanted it to. I'm still confused about what kind of components to use in different instances (stateful vs stateless/class component vs functional component) and how to write them.
+**Thoughts:** I was super confused at first, but after reviewing some of the React challenges on FCC, I figured out how to pass the props so the app worked the way I wanted it to. I'm still confused about what kind of components to use in different cases (stateful vs stateless/class component vs functional component) and how to write them.
 
 **Link to Work:** [Markdown Previewer](https://github.com/tymeart/markdown-previewer/commit/776bda027b54192269b3402f1a190088c4df8b0d)
