@@ -144,3 +144,11 @@
 **Thoughts:** I was super confused at first, but after reviewing some of the React challenges on FCC, I figured out how to pass the props so the app worked the way I wanted it to. I'm still confused about what kind of components to use in different cases (stateful vs stateless/class component vs functional component) and how to write them.
 
 **Link to Work:** [Markdown Previewer](https://github.com/tymeart/markdown-previewer/commit/776bda027b54192269b3402f1a190088c4df8b0d)
+
+### Day 4: August 3rd, 2017
+
+**Today's Progress:** Spent some time going through a couple of the Redux challenges on FCC. Decided to just jump into the next FCC React project, the Camper Leaderboard. I set it up and started laying out the table component. 
+
+**Thoughts:** So far I'm having a hard time figuring out how to separate this app into components. Like will each row be a user component with each user's stats? Do I break that component into smaller components? Kind of intimidated about how to filter/sort by clicking a button/link, but that will come later.
+
+**Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/b10f14ef4b10c8298998054db487190e428c4a87)
