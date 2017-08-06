@@ -160,3 +160,11 @@
 **Thoughts:** I'm still uncertain about whether I should break the Users component into smaller components, but I suppose if I need to I can do that later. I feel good about jumping into the API call but still need to figure out how to pass the data around.
 
 **Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/ae8d77e67e8e7bdd87dfeb426ad10509e8d8ff82)
+
+### Day 6: August 5th, 2017
+
+**Today's Progress:** Passed the data to Table and iterated over the array to render each user's info in a table row. Made another API call for the list of top campers of all time and set that data to another property in the state. Added buttons to click to show the two lists of campers.
+
+**Thoughts:** I was glad I was able to properly render the list of recent campers and learned that you can't pass an object as a prop. Now I'm trying to figure out how to display the two sets of data. This problem makes me wonder about accessibility in React. At first I was going to make the table headings <a> tags, but I wouldn't have an href, which I think might be bad practice? I made them buttons instead, but I'm not sure that's the right move either.
+
+**Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/b604ec8633e922627251361e4de3cec084396320)
