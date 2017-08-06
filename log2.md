@@ -152,3 +152,11 @@
 **Thoughts:** So far I'm having a hard time figuring out how to separate this app into components. Like will each row be a user component with each user's stats? Do I break that component into smaller components? Kind of intimidated about how to filter/sort by clicking a button/link, but that will come later.
 
 **Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/b10f14ef4b10c8298998054db487190e428c4a87)
+
+### Day 5: August 4th, 2017
+
+**Today's Progress:** Renamed the Board component to Table because I thought it would be clearer. Initialized state in the App component with an array for the users. Made an API call with axios to get the top 100 campers in the last 30 days and set `this.state.users` to that array.
+
+**Thoughts:** I'm still uncertain about whether I should break the Users component into smaller components, but I suppose if I need to I can do that later. I feel good about jumping into the API call but still need to figure out how to pass the data around.
+
+**Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/ae8d77e67e8e7bdd87dfeb426ad10509e8d8ff82)
