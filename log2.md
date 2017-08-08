@@ -168,3 +168,19 @@
 **Thoughts:** I was glad I was able to properly render the list of recent campers and learned that you can't pass an object as a prop. Now I'm trying to figure out how to display the two sets of data. This problem makes me wonder about accessibility in React. At first I was going to make the table headings <a> tags, but I wouldn't have an href, which I think might be bad practice? I made them buttons instead, but I'm not sure that's the right move either.
 
 **Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/b604ec8633e922627251361e4de3cec084396320)
+
+### Day 7: August 6th, 2017
+
+**Today's Progress:** Moved the buttons from the table header to outside the table because I couldn't figure out how to pass props with them inside (I felt like I would have to pass the props from child to parent). I'll move them back once I figure out how to do this passing of props.
+
+**Thoughts:** I'm really stuck on how to render each set of data on the click of the buttons. In my mind it's so simple, but clearly I still don't have a good understanding of props and how to pass them.
+
+**Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/ee3d2d26a78709deab3ef76552de800e529792df)
+
+### Day 8: August 7th, 2017
+
+**Today's Progress:** Still pushing things around, not having a clear idea of what to do. Moved the API calls to an `updateUsers` function and made it one call that depends on the option passed in. That will set the state for a single users key instead of having two keys/ separate arrays for each data set, which makes sense since only one set will be showed at a time. I haven't figured out how to pass the correct option in though.
+
+**Thoughts:** I've been looking at examples trying to figure out how to make the display change on click, but I'm still quite lost.
+
+**Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/ee3d2d26a78709deab3ef76552de800e529792df)
