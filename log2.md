@@ -184,3 +184,11 @@
 **Thoughts:** I've been looking at examples trying to figure out how to make the display change on click, but I'm still quite lost.
 
 **Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/ee3d2d26a78709deab3ef76552de800e529792df)
+
+### Day 9: August 8th, 2017
+
+**Today's Progress:** Got my SortButtons to work! They now load the correct data when clicked. The main problem I was having was that I wasn't accessing the prop (function) passed to SortButton. At one point, it was automatically and continuously making the API calls and rerendering the table on its own. There's something I don't understand going on with the binding, but the way it is right now works...
+
+**Thoughts:** The solution ended up being much simpler than I thought. I guess I was comparing to the FCC example project, which does have a few more features than mine does. It also has more components. I might make the table rows into a User component. This project has me wondering about accessibility and UX/design patterns. I like the way the example project has table headings clickable, which makes it look like the sorting in your email. For me that's intuitive, but I don't know if it is for most other people? The alternative is what I have right now: clear buttons outside of the table. It's probably good for people using screenreaders?
+
+**Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/41b75f812b6cf375f2a21a0a27007847d1510a59)
