@@ -192,3 +192,11 @@
 **Thoughts:** The solution ended up being much simpler than I thought. I guess I was comparing to the FCC example project, which does have a few more features than mine does. It also has more components. I might make the table rows into a User component. This project has me wondering about accessibility and UX/design patterns. I like the way the example project has table headings clickable, which makes it look like the sorting in your email. For me that's intuitive, but I don't know if it is for most other people? The alternative is what I have right now: clear buttons outside of the table. It's probably good for people using screenreaders?
 
 **Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/41b75f812b6cf375f2a21a0a27007847d1510a59)
+
+### Day 10: August 9th, 2017
+
+**Today's Progress:** Linked the usernames to the respective user profile pages and styled the links a bit. Made the buttons larger and more cohesive color-wise.
+
+**Thoughts:** I think since I left the buttons I need to make it clearer how the list is currently being sorted.
+
+**Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/1a7b084235a43e8361c74c19b66f5093528033e2)
