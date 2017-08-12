@@ -216,3 +216,11 @@
 **Thoughts:** I feel good that I pushed through the problems I was facing and found solutions.
 
 **Link to Work:** [Camper Leaderboard](https://tymeart.github.io/camper-leaderboard)
+
+### Day 13: August 12th, 2017
+
+**Today's Progress:** Finished the final exercise in the learnyounode workshopper from Node School. The hardest part was figuring out what different Date methods would return and how I could use each one. Then I wasn't sure how to get the results to display (not with `return` but with `res.end()`.
+
+**Thoughts:** I'm glad I finally finished this workshopper, but since I worked on it over the course of several months, I've forgotten a lot and still don't have a very good idea of how Node works. I suppose this was only supposed to be an intro, but there's nothing in particular I can say I've taken away from working through these exercises.
+
+**Link to Work:** [learnyounode](https://github.com/tymeart/learnyounode/commit/c9baabf4450a7734e7987c6bfa5e9f133da064b6)
