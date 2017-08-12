@@ -2,7 +2,8 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log](log.md)
+* [Log Round 2 - click here to see my progress](log2.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
