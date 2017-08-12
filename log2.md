@@ -200,3 +200,19 @@
 **Thoughts:** I think since I left the buttons I need to make it clearer how the list is currently being sorted.
 
 **Link to Work:** [Camper Leaderboard](https://github.com/tymeart/camper-leaderboard/commit/1a7b084235a43e8361c74c19b66f5093528033e2)
+
+### Day 11: August 10th, 2017
+
+**Today's Progress:** Started adding highlighting (background color) to a column to show how the list of users was currently being sorted. To do this, I added one of two classes to all the items in each point column and started writing a function that would add/remove a class to the items in the column.
+
+**Thoughts:** I wrote the new function very naively, with a lengthy if/else statement. When I started up the app, I was getting an error saying that function was not defined. I couldn't figure out why; I thought maybe I was using the wrong variable keywords..
+
+**Link to Work:** [Camper Leaderboard](https://tymeart.github.io/camper-leaderboard)
+
+### Day 12: August 11th, 2017
+
+**Today's Progress:** Figured out that my function was "not defined" because I needed to call it with `this`. Had to iterate through the column items since it was a nodelist, which I'd forgotten. This got me very close, but I noticed that some of the column items were not hightlighted. My guess was that the data loading and data rendering were sort of clashing, so I moved the function call into the `updateUsers` function and chained it to the end.
+
+**Thoughts:** I feel good that I pushed through the problems I was facing and found solutions.
+
+**Link to Work:** [Camper Leaderboard](https://tymeart.github.io/camper-leaderboard)
