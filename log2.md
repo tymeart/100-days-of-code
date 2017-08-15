@@ -224,3 +224,19 @@
 **Thoughts:** I'm glad I finally finished this workshopper, but since I worked on it over the course of several months, I've forgotten a lot and still don't have a very good idea of how Node works. I suppose this was only supposed to be an intro, but there's nothing in particular I can say I've taken away from working through these exercises.
 
 **Link to Work:** [learnyounode](https://github.com/tymeart/learnyounode/commit/c9baabf4450a7734e7987c6bfa5e9f133da064b6)
+
+### Day 14: August 13th, 2017
+
+**Today's Progress:** Wireframed a bit and set up the project. Made a separate folder for components and a file for each component. Imported referenced files as I went.
+
+**Thoughts:** I still don't have a good idea of the differences among various ways to write components...
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/44be8a458549f79243888c31e29535f0f384e0e3)
+
+### Day 15: August 14th, 2017
+
+**Today's Progress:** Fixed some JSX that was causing errors. Hard-coded some recipe objects into the state so I could try passing something to the various components. Successfully rendered the sidebar! Started styling it as well.
+
+**Thoughts:** I kind of can't believe I successfully passed the recipes properly (ha).
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/d5bdc73aaf784bebd6245502ec6a8f218d04317e)
