@@ -240,3 +240,11 @@
 **Thoughts:** I kind of can't believe I successfully passed the recipes properly (ha).
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/d5bdc73aaf784bebd6245502ec6a8f218d04317e)
+
+### Day 16: August 15th, 2017
+
+**Today's Progress:** Added a right border to the sidebar and resized the button. Refactored the RecipeList to include RecipeListItem.
+
+**Thoughts:** Using RecipeListItem inside of RecipeList was kind of difficult because I was getting confused about how to pass and access the props.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/dbc1890432590d27b87f89b0632d3896767c05a4)
