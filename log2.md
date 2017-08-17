@@ -248,3 +248,11 @@
 **Thoughts:** Using RecipeListItem inside of RecipeList was kind of difficult because I was getting confused about how to pass and access the props.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/dbc1890432590d27b87f89b0632d3896767c05a4)
+
+### Day 17: August 16th, 2017
+
+**Today's Progress:** Realized that I should make the main tag into a component, so I did that. Looked at the example project's code since I'm pretty stuck, and they have the ingredients as an array, which makes sense, so I changed my ingredients to also be an array of strings rather than a single string. Tried to write a function that gets run when a recipe title is clicked on, but I don't know how to make MainSection render different things based on the target of the click...
+
+**Thoughts:** Getting to work today was really tough. I was procrastinating because I don't know how to move forward.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/f12f6ca50ef381965e2a1acbaa2a60712fa3491a)
