@@ -256,3 +256,11 @@
 **Thoughts:** Getting to work today was really tough. I was procrastinating because I don't know how to move forward.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/f12f6ca50ef381965e2a1acbaa2a60712fa3491a)
+
+### Day 18: August 17th, 2017
+
+**Today's Progress:** Broke some components onto more lines for more readability because I was adding so many attributes. Other than that, I kept trying to make something render in the MainSection on click of the RecipeListItems. I tried changing how I structured the recipes data in the state. I briefly thought putting the click handler functions in the Sidebar would work out, but then realized it had to be higher up (in the parent) if I wanted to pass the state to MainSection, which is the sibling of Sidebar.
+
+**Thoughts:** After talking to someone for help, I've learned that I either need to use Redux or not break the app into so many components/have one single component? At least I have a better idea of what to do now.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/23e90e0d4d024b99331a6d87689e09824f8fb4a4)
