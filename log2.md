@@ -264,3 +264,11 @@
 **Thoughts:** After talking to someone for help, I've learned that I either need to use Redux or not break the app into so many components/have one single component? At least I have a better idea of what to do now.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/23e90e0d4d024b99331a6d87689e09824f8fb4a4)
+
+### Day 19: August 18th, 2017
+
+**Today's Progress:** I was still unsure of what to do at the beginning of today's work session. I was looking for forum discussion on this project but didn't find much else besides people's finished projects. So I took a look at two, and [one of them](https://codepen.io/eddyerburgh/pen/xVeJvB?editors=0010) was helpful even though it initially seemed very different from what I wanted to do. They wrote a function to find the index of something in their data, and I thought I should do the same for my problem. It occurred to me yesterday, but for some reason I thought implementing it wasn't a good idea? It isn't very optimal the way I've set it up, but I did get recipe details to render on the click of recipe titles in the sidebar! Also have `MainSection` render only when `this.state.display` isn't null.
+
+**Thoughts:** Yesterday there were a lot of different thoughts entangled and I couldn't move forward in any direction. I'm glad I've finally made progress and can move on to the next problem.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/b945eb3f8e888c12fdc5abc817ee0ec8acb84c23)
