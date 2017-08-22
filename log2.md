@@ -272,3 +272,19 @@
 **Thoughts:** Yesterday there were a lot of different thoughts entangled and I couldn't move forward in any direction. I'm glad I've finally made progress and can move on to the next problem.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/b945eb3f8e888c12fdc5abc817ee0ec8acb84c23)
+
+### Day 20: August 19th, 2017
+
+**Today's Progress:** Tried to get different components to render inside `MainSection` but didn't know how to set things up to do that. I added an ingredients key to the recipes since I do want to have those in the end.
+
+**Thoughts:** Architecture is hard.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/f8b1bb17910658a83fa29da325f51d885c64406f)
+
+### Day 21: August 21st, 2017
+
+**Today's Progress:** Added keys to the App state to use later in conditional rendering. It works, except once again I've run into the problem of getting the correct recipe to render.
+
+**Thoughts:** I almost didn't work on this project today because I was feeling so stuck. But it is a little bit easier to think when you're not falling asleep...
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/3e78c70bd1fecb27c04c10858c3fd8464f7b700a)
