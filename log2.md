@@ -288,3 +288,11 @@
 **Thoughts:** I almost didn't work on this project today because I was feeling so stuck. But it is a little bit easier to think when you're not falling asleep...
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/3e78c70bd1fecb27c04c10858c3fd8464f7b700a)
+
+### Day 22: August 22nd, 2017
+
+**Today's Progress:** Finally got recipe details and recipe form to render in `MainSection` when the recipe titles and button are clicked on. I set intital state of `displayRecipe` to null so I could setState to the recipe object when the title is clicked in the sidebar. Then for displaying the form, I just have `displayForm` toggle between true and false since what gets rendered doesn't change (static form that doesn't require passed in data). I was having trouble with the conditional renders, which I finally figured out was mainly because of what I was setting as initial state. Types have to stay the same (?), and {} is truthy.
+
+**Thoughts:** I'm so glad I finally got past the problem I had. I feel like I was struggling for so long! I also have a better idea about how to utilize localStorage, which is the next step.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/4e858c8c5308cb71bdbe27839a4436a6efc6556b)
