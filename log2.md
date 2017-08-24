@@ -296,3 +296,11 @@
 **Thoughts:** I'm so glad I finally got past the problem I had. I feel like I was struggling for so long! I also have a better idea about how to utilize localStorage, which is the next step.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/4e858c8c5308cb71bdbe27839a4436a6efc6556b)
+
+### Day 23: August 23rd, 2017
+
+**Today's Progress:** Styled some of the MainSection by adding padding to the right side because text was stretching too far that way. Made the edit and delete buttons in the RecipeDetails bigger and positioned them in the corner. Added a Google font for once instead of just going with "serif" or "sans-serif." Started working on getting the form submission to save new recipes by looking into how to access input values from multiple input fields.
+
+**Thoughts:** I feel kind of bad that I didn't tackle the thing I need to do to make progress but sort of procrastinated by working on the look of things.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/06912f059b7f0c8d725b07e26cc324c52830b0b5)
