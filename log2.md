@@ -304,3 +304,11 @@
 **Thoughts:** I feel kind of bad that I didn't tackle the thing I need to do to make progress but sort of procrastinated by working on the look of things.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/06912f059b7f0c8d725b07e26cc324c52830b0b5)
+
+### Day 24: August 24th, 2017
+
+**Today's Progress:** I thought using refs in an uncontrolled component would be the way to handle multiple inputs in a form, but actually it wasn't necessary. I made separate onChange handlers for the input fields and one for the submit button. Then I had each input correspond to a piece of state, which determines the value of the input. Clicking the submit button logged the values of each input, which means now I just have to figure out how to incorporate localStorage.
+
+**Thoughts:** Selecting an item out of a list seems like a very common problem to solve, but I guess I didn't search hard enough.. The way I did it was kind of hacky, and I think I should go back to Stephen Grider's YouTube search project to see how to do it in a better way.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/537b134b433d01f01db99f944b0ca9496570b2b6)
