@@ -312,3 +312,11 @@
 **Thoughts:** Selecting an item out of a list seems like a very common problem to solve, but I guess I didn't search hard enough.. The way I did it was kind of hacky, and I think I should go back to Stephen Grider's YouTube search project to see how to do it in a better way.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/537b134b433d01f01db99f944b0ca9496570b2b6)
+
+### Day 25: August 26th, 2017
+
+**Today's Progress:** Moved the initial recipes from state to an array outside of the App class. Included a function to check for support and availability of localStorage and initialized the recipes.
+
+**Thoughts:** I'm not sure if I initialized the object in localStorage properly... I still have to figure out how to parse the ingredients and instructions. Not sure if I should keep them as strings in an array or if I should put everything into a single string.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/0cb064032bace0e904222c8252d8e2eca56c184f)
