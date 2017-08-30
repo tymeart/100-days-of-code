@@ -320,3 +320,27 @@
 **Thoughts:** I'm not sure if I initialized the object in localStorage properly... I still have to figure out how to parse the ingredients and instructions. Not sure if I should keep them as strings in an array or if I should put everything into a single string.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/0cb064032bace0e904222c8252d8e2eca56c184f)
+
+### Day 26: August 27th, 2017
+
+**Today's Progress:** Started including localStorage in the `handleSubmit` function so adding a new recipe will save it in localStorage. Also added a few more comments to the code in `componentWillMount` about things to do.
+
+**Thoughts:** I'm still trying to figure out the logic of what should happen and under what conditions.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/6e4ce916e23ec4a79485a4e792775bbd35d3053b)
+
+### Day 27: August 28th, 2017
+
+**Today's Progress:** Looking at my code, I was confused and not getting anywhere with figuring out the logic, so I wrote it out on paper. It became very clear that I had a piece of functionality that I would repeat again and again, so I know I need to break that into a separate function. Started extracting the recipes from localStorage into something I can setState to later.
+
+**Thoughts:** It's funny how effective writing/drawing things out with pen and paper is.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/859087b8326fc6957989b33b3b61113357ba084f)
+
+### Day 28: August 29th, 2017
+
+**Today's Progress:** I changed the instructions from an array of strings back to a single string because I figure that's how it'll be when the user clicks the submit button. Stringified the object containing the recipe ingredients and instructions since localStorage only takes strings. Then I parsed it when retrieving it to be set in state. Sliced the title that ultimately gets passed into setState. Because of the format of things that are saved into localStorage, I had to change how I was accessing the data (array indices + object keys instead of solely object keys). After doing that and getting some errors, I found out I wasn't stringifying & parsing the objects because that object was either coming back null or as the string literal "[object Object]".
+
+**Thoughts:** I need to fix the way I'm determining if it's the first time the user has visited the page, or maybe I just need to remove the first-visit-indicator. For the most part the app is still working with localStorage, yay!
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/2c7d4d30f98f6cd4ea930ae5cd4ae606548bd23a)
