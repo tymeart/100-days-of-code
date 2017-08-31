@@ -347,7 +347,7 @@
 
 ### Day 29: August 31st, 2017
 
-**Today's Progress:** Made some small changes, like the names of the handlers that deal with the inputs in the add recipe form and the wording of the alert message if localStorage is not available. Added newline characters in the instructions strings. Learned about the <pre> tag and white-space properties in CSS. Pulled out the code that gets the recipes from localStorage and set them in state and put that into an `updateRecipeState` function. Got the recipe form working!
+**Today's Progress:** Made some small changes, like the names of the handlers that deal with the inputs in the add recipe form and the wording of the alert message if localStorage is not available. Added newline characters in the instructions strings. Learned about the `pre` tag and white-space properties in CSS. Pulled out the code that gets the recipes from localStorage and set them in state and put that into an `updateRecipeState` function. Got the recipe form working!
 
 **Thoughts:**
 
