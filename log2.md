@@ -347,8 +347,8 @@
 
 ### Day 29: August 31st, 2017
 
-**Today's Progress:** Made some small changes, like the names of the handlers that deal with the inputs in the add recipe form and the wording of the alert message if localStorage is not available. Added newline characters in the instructions strings. Learned about the `pre` tag and white-space properties in CSS. Pulled out the code that gets the recipes from localStorage and set them in state and put that into an `updateRecipeState` function. Got the recipe form working!
+**Today's Progress:** Made some small changes, like the names of the handlers that deal with the inputs in the add recipe form and the wording of the alert message if localStorage is not available. Added newline characters in the instructions strings. Learned about the `pre` tag and white-space properties in CSS. Pulled out the code that gets the recipes from localStorage and set them in state and put that into an `updateRecipeState` function. Got the recipe form working! Things were breaking because I was trying to use JSON.parse() on the object containing the recipe ingredients and instructions. I was getting an error that usually appears when you try to use JSON.parse() on something that's already an object. But when I logged the object at a specific index, it returned piece of a string. In the end I used JSON.parse() in the childe component that renders the data, and that worked.
 
-**Thoughts:**
+**Thoughts:** I feel like I accomplished a lot today.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/552197ce9f7a94d13928d93cf782b2877135b5b4)
