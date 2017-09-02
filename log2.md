@@ -352,3 +352,11 @@
 **Thoughts:** I feel like I accomplished a lot today.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/552197ce9f7a94d13928d93cf782b2877135b5b4)
+
+### Day 30: September 1st, 2017
+
+**Today's Progress:** Made the delete button work. Since I needed access to the current recipe, I bound the handler function to the button and passed in the current recipe title, which that component had access to. Started trying to figure out how to make the edit feature work.
+
+**Thoughts:** At least that's how I think the binding and passing values works... I did the same thing for the camper leaderboard, but I understood it less at the time. I was confused as to why I had to still use .bind() when I had already defined the function as an arrow function, but I kind of get it now.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/292cd953506c2a4eafcf4f953a5d0349f934c794)
