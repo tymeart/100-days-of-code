@@ -360,3 +360,11 @@
 **Thoughts:** At least that's how I think the binding and passing values works... I did the same thing for the camper leaderboard, but I understood it less at the time. I was confused as to why I had to still use .bind() when I had already defined the function as an arrow function, but I kind of get it now.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/292cd953506c2a4eafcf4f953a5d0349f934c794)
+
+### Day 31: September 2nd, 2017
+
+**Today's Progress:** Made it so the MainSection clears whenever a new recipe is saved and when the delete button is clicked by changing some state in the `updateRecipeState` function. Started adding a component for the edit form, but I might be able to reuse the form component for adding a recipe... Made a new click handler for the edit button. I'm trying to pass it the current recipe the same way I did with the delete button.
+
+**Thoughts:** It feels good to be able to reason about how to connect things in React now. There are so many links to keep track of (at least without Redux).
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/16c56030930901e5095142c2503783305b7fc1b5)
