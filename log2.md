@@ -368,3 +368,11 @@
 **Thoughts:** It feels good to be able to reason about how to connect things in React now. There are so many links to keep track of (at least without Redux).
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/16c56030930901e5095142c2503783305b7fc1b5)
+
+### Day 32: September 3rd, 2017
+
+**Today's Progress:** Wrote the function to handle the submission of the edit form. It looks pretty similar to the function that handles the new recipe submission except I delete the old recipe if the title is edited.
+
+**Thoughts:** Reusing the new recipe submit form seems possible, but I think it might be clearer if they're separate.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/8907990b8a9a50898e3da074e0d083aa7fdcf51a)
