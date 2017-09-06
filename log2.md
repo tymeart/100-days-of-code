@@ -376,3 +376,11 @@
 **Thoughts:** Reusing the new recipe submit form seems possible, but I think it might be clearer if they're separate.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/8907990b8a9a50898e3da074e0d083aa7fdcf51a)
+
+### Day 33: September 5th, 2017
+
+**Today's Progress:** Made it so the MainSection is cleared when `updateRecipeState` runs and when a recipe in the sidebar is clicked when the edit form is displayed. I set the values in the edit form to those of the current recipe. I spent a while trying to figure out how to pass the old, uneditted recipe to the submit edit handler. I looked at someone else's project to see how they did it, and it was so simple! Just delete the old recipe and add a new recipe with whatever values are in the edit form. I was talking to a friend about component state and relearned that not all the state has to be in the top level component. So I'm trying to refactor my forms so that they manage their own state for the text inputs. However, I need to figure out how to get the submit handlers to work again since those I think I need to keep in the App component where they will update state. In the edit form, I noticed the ingredients are comma separated but without spaces after the commas, so I fixed that.
+
+**Thoughts:** I think I should include a "Cancel" button on both of the forms. There's still so much to learn about using React.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/1eb1f7024645410e3f052416594523841c44efc6)
