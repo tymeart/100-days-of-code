@@ -384,3 +384,11 @@
 **Thoughts:** I think I should include a "Cancel" button on both of the forms. There's still so much to learn about using React.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/1eb1f7024645410e3f052416594523841c44efc6)
+
+### Day 34: September 6th, 2017
+
+**Today's Progress:** Finished moving the change handlers for the forms from the App component to the individual form components. Then I passed the recipe data from the forms to the submit button handlers. I logged some things and it seems like the submit handlers are receiving the correct data, but maybe there's something wrong with the way I'm manipulating it because I'm not getting the results I want at the moment...
+
+**Thoughts:** I realized that even though I'm making sure the recipe titles and ingredients aren't empty, it's still possible for someone to input a space or a bunch of spaces.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/0b693cb20a15df9ed5de858d492b8dba0da16b32)
