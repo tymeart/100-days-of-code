@@ -392,3 +392,11 @@
 **Thoughts:** I realized that even though I'm making sure the recipe titles and ingredients aren't empty, it's still possible for someone to input a space or a bunch of spaces.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/0b693cb20a15df9ed5de858d492b8dba0da16b32)
+
+### Day 35: September 7th, 2017
+
+**Today's Progress:** Finally got the submit handlers on both forms working. It turns out it wasn't working on the new recipe form because I had to change where it was pulling the title and ingredients to check if they were empty. I was checking the state instead of the form data. Also added cancel buttons on the two forms and got those to work. The edit form returns to the recipe details view when cancelled.
+
+**Thoughts:** I've got the main functionality of the app done, I think! Yay! Now I'm trying to add transitions.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/cebbeb112f92f8ddcfe605bf0f712db44ea6f308)
