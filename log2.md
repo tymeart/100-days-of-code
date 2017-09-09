@@ -405,6 +405,6 @@
 
 **Today's Progress:** Added CSS transitions to the components that appear in MainSection (recipe details, recipe form, and edit form).
 
-**Thoughts:** It was surprisingly difficult to figure out how to get the transitions to work. At first I also installed the wrong version of the react-transition-group package because v1.x is the ones that are stable, not the latest v2.x?? Then I wasn't sure which components <CSSTransitionGroup> should wrap (how far down the parent/child chain?). Anyway, I finally got it working, though there is no transition between clicked recipes since they're within the same component. The transition to the forms is kind of weird and jerky, so I'll have to see if I can tweak that. 
+**Thoughts:** It was surprisingly difficult to figure out how to get the transitions to work. At first I also installed the wrong version of the react-transition-group package because v1.x are the ones that are stable, not the latest v2.x?? Then I wasn't sure which components <CSSTransitionGroup> should wrap (how far down the parent/child chain?). Anyway, I finally got it working, though there is no transition between clicked recipes since they're within the same component. The transition to the forms is kind of weird and jerky, so I'll have to see if I can tweak that. 
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/63ca34a912cd1c750805636bd25c934058acb662)
