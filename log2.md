@@ -400,3 +400,11 @@
 **Thoughts:** I've got the main functionality of the app done, I think! Yay! Now I'm trying to add transitions.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/cebbeb112f92f8ddcfe605bf0f712db44ea6f308)
+
+### Day 36: September 8th, 2017
+
+**Today's Progress:** Added CSS transitions to the components that appear in MainSection (recipe details, recipe form, and edit form).
+
+**Thoughts:** It was surprisingly difficult to figure out how to get the transitions to work. At first I also installed the wrong version of the react-transition-group package because v1.x is the ones that are stable, not the latest v2.x?? Then I wasn't sure which components <CSSTransitionGroup> should wrap (how far down the parent/child chain?). Anyway, I finally got it working, though there is no transition between clicked recipes since they're within the same component. The transition to the forms is kind of weird and jerky, so I'll have to see if I can tweak that. 
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/63ca34a912cd1c750805636bd25c934058acb662)
