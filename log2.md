@@ -408,3 +408,27 @@
 **Thoughts:** It was surprisingly difficult to figure out how to get the transitions to work. At first I also installed the wrong version of the react-transition-group package because v1.x are the ones that are stable, not the latest v2.x?? Then I wasn't sure which components `<CSSTransitionGroup>` should wrap (how far down the parent/child chain?). Anyway, I finally got it working, though there is no transition between clicked recipes since they're within the same component. The transition to the forms is kind of weird and jerky, so I'll have to see if I can tweak that. 
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/63ca34a912cd1c750805636bd25c934058acb662)
+
+### Day 37: September 9th, 2017
+
+**Today's Progress:** Altered the transition speeds so that recipe details appeared faster and the forms entered and left slower. Changed the sidebar color to orange and rounded all the buttons. Added a keyline below the recipe heading, which required redistributing the spacing. Changed the cursor when hovering over buttons and recipe titles in the sidebar. I noticed that there was white space (not orange) below the sidebar for one of the recipes that was longer, so I fixed that by adding padding on the bottom of the sidebar to match the padding on the bottom of the main section.
+
+**Thoughts:** I woke up a little earlier to work because I was going to be busy the whole day, and I felt like I got a lot of work done!
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/bf4eee0d7188f528be49d7ab58095d823497ebc2)
+
+### Day 38: September 10th, 2017
+
+**Today's Progress:** Mainly worked on styling the forms today, which included the color of the input field borders and button colors. Added a line to clarify the expected format for the ingredients. Increased letter spacing on buttons. Tweaked the colors for the recipe title borders in the sidebar and the keylines.
+
+**Thoughts:** I attended a retrospective talk about how front-end web development has changed over the years, and proptypes in React came up briefly. I think I should've been using them this whole time, especially because I had so much trouble with the types of data getting passed around.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/2904e830baf6bb911e6f3172240da752124325a4)
+
+### Day 39: September 12th, 2017
+
+**Today's Progress:** I was going to add a confirmation when the delete button is clicked, but I realized I should make it a little bit harder to accidentally click it. I moved it to the view with the edit form and left it in that corner in the heading while the submit and cancel buttons are at the bottom. Added hover color and transition to the delete button as well. Made it so recipes are displayed right after being created or editted.
+
+**Thoughts:** There are more things I could do, especially with refactoring, but I don't feel like working on this project much longer.
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/b42fb00b389b77718fa4ff42ebaff91a9ba8f395)
