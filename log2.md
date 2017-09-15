@@ -440,3 +440,11 @@
 **Thoughts:** Although there are many things I could do to improve Recipe Box as it is now, the point was to learn React, not build a great recipe app. It could benefit from some refactoring, but I don't really know how to go about doing it at this point...
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/8c78914b80928faca546ffdcd49b23f54ce76aa9)
+
+### Day 41: September 15th, 2017
+
+**Today's Progress:** Changed the layout of the books list to a grid of cards. Made the alt attributes on images (book covers) a little more specific by having them include the title of the book. The title and author for each book card were heading tags, so I changed them to p tags. Also got rid of a span that didn't seem to be used at all.
+
+**Thoughts:** My flexbox understanding could use some work.
+
+**Link to Work:** [Noisebridge Library App](https://github.com/nb-library-wg/nb-library-react/commit/6d17ca9c46ed86e06428d8f9352408b35d35bade)
