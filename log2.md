@@ -432,3 +432,11 @@
 **Thoughts:** There are more things I could do, especially with refactoring, but I don't feel like working on this project much longer.
 
 **Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/b42fb00b389b77718fa4ff42ebaff91a9ba8f395)
+
+### Day 40: September 14th, 2017
+
+**Today's Progress:** I spent some time truncating recipe titles in the sidebar, and I got that to work, but then it meant I would have to change the way the recipe details are accessed (I guess I was relying on the recipe title in the sidebar). I didn't like the way the truncated titles looked anyway, so I scrapped that idea. Went ahead and deployed the app. I also started working on some styling for the Noisebridge library app, though I don't want to push the changes up yet.
+
+**Thoughts:** Although there are many things I could do to improve Recipe Box as it is now, the point was to learn React, not build a great recipe app. It could benefit from some refactoring, but I don't really know how to go about doing it at this point...
+
+**Link to Work:** [Recipe Box](https://github.com/tymeart/recipe-box/commit/8c78914b80928faca546ffdcd49b23f54ce76aa9)
