@@ -448,3 +448,11 @@
 **Thoughts:** My flexbox understanding could use some work.
 
 **Link to Work:** [Noisebridge Library App](https://github.com/nb-library-wg/nb-library-react/commit/6d17ca9c46ed86e06428d8f9352408b35d35bade)
+
+### Day 42: September 16th, 2017
+
+**Today's Progress:** Started changing the layout of my portfolio page to be a grid layout of my projects. I'm going to add images later on, so I added spans as placeholders for now. I also went back to my Random Quote Generator to change the AJAX call to use cors-anywhere since crossorigin.me doesn't seem to be working anymore.
+
+**Thoughts:** I don't know how I'm going to make this layout unique. I was inspired by my friend [Sasha's portfolio site](https://sashatran.com), but I don't want mine to be that close of a copy to hers...
+
+**Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/eb40c043cb840a622e669379edde9a5d7b366837)
