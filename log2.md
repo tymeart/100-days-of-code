@@ -456,3 +456,11 @@
 **Thoughts:** I don't know how I'm going to make this layout unique. I was inspired by my friend [Sasha's portfolio site](https://sashatran.com), but I don't want mine to be that close of a copy to hers...
 
 **Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/eb40c043cb840a622e669379edde9a5d7b366837)
+
+### Day 43: September 17th, 2017
+
+**Today's Progress:** I took out the Google fonts and background gradient since I don't like them that much anymore. Changed the font sizes to rem. I moved the social media links to the header and added space between the h1 and the top of the page as well as between the h1 and the paragraph below it. Shortened the calculator description since it was so much longer than the others'. Added flex-grow to the project titles and descriptions so that they take up the remaining space.
+
+**Thoughts:** I still don't know how I'm going to do the project tiles. I took screenshots of the projects (except MojiBox for now), but I'm worried they won't look very nice all together in a grid.
+
+**Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/26b193ab56a945f141498bbb4df94b455e360088)
