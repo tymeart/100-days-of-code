@@ -464,3 +464,11 @@
 **Thoughts:** I still don't know how I'm going to do the project tiles. I took screenshots of the projects (except MojiBox for now), but I'm worried they won't look very nice all together in a grid.
 
 **Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/26b193ab56a945f141498bbb4df94b455e360088)
+
+### Day 44: September 18th, 2017
+
+**Today's Progress:** I made the links in the project cards larger so they fill up the entire card. This moved the text to the center of the card, and I don't mind this look. I might add the screenshots as background images. Changed the social media text links to icons, which involved some reading about how to make them accessible.
+
+**Thoughts:** The use of `aria-hidden` was a bit difficult to understand, but I guess that was because I didn't understand the non-decorative use of icons?
+
+**Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/89b2403fdcee2f308c18815620d106339c5d5423)
