@@ -472,3 +472,19 @@
 **Thoughts:** The use of `aria-hidden` was a bit difficult to understand, but I guess that was because I didn't understand the non-decorative use of icons?
 
 **Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/89b2403fdcee2f308c18815620d106339c5d5423)
+
+### Day 45: September 19th, 2017
+
+**Today's Progress:** I mainly worked on the Redux challenges on Free Code Camp, so I didn't push anything to Github...
+
+**Thoughts:** It's confusing so far. They're just functions and objects, but there are so many terms!
+
+**Link to Work:** none
+
+### Day 46: September 20th, 2017
+
+**Today's Progress:** I made really small changes in my portfolio page. Just a few wording things in 2 of the project descriptions and adding more spacing. Then I got sucked into editing all my project READMEs.
+
+**Thoughts:** I should really go ahead and add the images to see if I like them in the background.
+
+**Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/e7bd7196c1b7f3e15f61e7d0b6949c29aecf0f1c)
