@@ -496,3 +496,11 @@
 **Thoughts:** When I started the challenges today, I was super confused about all the terms. It was tough following the lessons because I had to stop and recall what each thing was multiple times. But by the time I finished the Redux challenges, I think things were becoming clearer.
 
 **Link to Work:** none
+
+### Day 48: September 22nd, 2017
+
+**Today's Progress:** Finished deploying MojiBox. Set the local env variable for the Mongo url as well as the key on Heroku. Changed the port on `app.listen` since Heroku sets its own port.
+
+**Thoughts:** Did have to Google some error messages, but it was a relatively easy process. I wish I could have the mojibox url name on Heroku!
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/84cbde68c1501063486ef1a625014e84a33a0886)
