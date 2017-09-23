@@ -488,3 +488,11 @@
 **Thoughts:** I should really go ahead and add the images to see if I like them in the background.
 
 **Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/e7bd7196c1b7f3e15f61e7d0b6949c29aecf0f1c)
+
+### Day 47: September 21st, 2017
+
+**Today's Progress:** I finished the Redux challenges on FCC. Started the process of deploying MojiBox, so I deployed the Mongo database and set the database url to the environment variable.
+
+**Thoughts:** When I started the challenges today, I was super confused about all the terms. It was tough following the lessons because I had to stop and recall what each thing was multiple times. But by the time I finished the Redux challenges, I think things were becoming clearer.
+
+**Link to Work:** none
