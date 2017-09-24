@@ -504,3 +504,11 @@
 **Thoughts:** Did have to Google some error messages, but it was a relatively easy process. I wish I could have the mojibox url name on Heroku!
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/84cbde68c1501063486ef1a625014e84a33a0886)
+
+### Dya 49: September 23rd, 2017
+
+**Today's Progress:** Updated the MojiBox link with the deployed Heroku app one. Cropped my screenshots and added them into a folder in the project. I was originally going to set each background manually since the entire page is hard coded, but now I'm considering making it a bit more dynamic and putting all the project info into JS objects. Went ahead and merged the new layout into master since it's close to being done.
+
+**Thoughts:** The layout is still so boring...
+
+**Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/5176022534057a0bc57998c19c24edd3874311af)
