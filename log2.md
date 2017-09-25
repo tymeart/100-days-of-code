@@ -505,10 +505,18 @@
 
 **Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/84cbde68c1501063486ef1a625014e84a33a0886)
 
-### Dya 49: September 23rd, 2017
+### Day 49: September 23rd, 2017
 
 **Today's Progress:** Updated the MojiBox link with the deployed Heroku app one. Cropped my screenshots and added them into a folder in the project. I was originally going to set each background manually since the entire page is hard coded, but now I'm considering making it a bit more dynamic and putting all the project info into JS objects. Went ahead and merged the new layout into master since it's close to being done.
 
 **Thoughts:** The layout is still so boring...
 
 **Link to Work:** [Portfolio](https://github.com/tymeart/tymeart.github.io/commit/5176022534057a0bc57998c19c24edd3874311af)
+
+### Day 50: September 24th, 2017
+
+**Today's Progress:** Created my to do app yesterday and set up the components today. Took me a few minutes to recall how to map over items in an array and render each one with the items as separate components in the list component. Also took me a bit to figure out how to do handler functions again. Still trying to remember/figure out what I should do the state with regards to the submit handler.
+
+**Thoughts:** Good thing I'm making this app, because I obviously need to review and strengthen my React skills.
+
+**Link to Work:** [To Do](https://github.com/tymeart/todo/commit/b79ba5ff02be08f21c72fb6f1ea67913d8040a73)
