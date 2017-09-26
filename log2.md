@@ -520,3 +520,11 @@
 **Thoughts:** Good thing I'm making this app, because I obviously need to review and strengthen my React skills.
 
 **Link to Work:** [To Do](https://github.com/tymeart/todo/commit/b79ba5ff02be08f21c72fb6f1ea67913d8040a73)
+
+### Day 51: September 25th, 2017
+
+**Today's Progress:** Moved App.js and App.test.js to the components folder and changed the title of the page. Had a bit of trouble getting the tasks to render in the list after submitting, but got it to work.
+
+**Thoughts:** I kept having to check what I did in my last project. I'm trying to learn alternative ways of doing things by looking at someone else's React to do app. There's still so much I don't understand. I want to clear the input field after submitting, but I'm not sure how to do that yet.
+
+**Link to Work:** [To Do](https://github.com/tymeart/todo/commit/1399c049802440a450c88b8c157466cd1034411d)
