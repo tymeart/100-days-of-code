@@ -536,3 +536,11 @@
 **Thoughts:** Honestly, I feel kind of lame having somehow gotten things to work in Recipe Box but having so much trouble with this simple to do app. There's still so much I don't understand.
 
 ** Link to Work:** [To Do](https://github.com/tymeart/todo/commit/7c47a34d59b74719d43faad03ee50c2244cebdf4)
+
+### Day 53: September 27th, 2017
+
+**Today's Progress:** Finished the delete feature. I just had to include the id in the todo object that's added to state and actually attach the event listener to the delete button. Decided to go back to the problem of clearing the form input on submission. After doing a slightly more specific Google search (I realized my problem had to do with the separation of parent and child components), I came to the conclusion that I had to move the controlled input state from the child form component to the parent App component. That way I could easily change the input value from within the submit function in the App component.
+
+**Thoughts:** I guess I still don't understand when I should make stateful components vs. functional components(?) and where to have state.
+
+**Link to Work:** [To Do](https://github.com/tymeart/todo/commit/fc47b94e924501c9899deb7c1d679eb255e5e03e)
