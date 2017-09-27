@@ -528,3 +528,11 @@
 **Thoughts:** I kept having to check what I did in my last project. I'm trying to learn alternative ways of doing things by looking at someone else's React to do app. There's still so much I don't understand. I want to clear the input field after submitting, but I'm not sure how to do that yet.
 
 **Link to Work:** [To Do](https://github.com/tymeart/todo/commit/1399c049802440a450c88b8c157466cd1034411d)
+
+### Day 52: September 26th, 2017
+
+**Today's Progress:** Was stuck for a while on the clearing input issue, but I decided to let go of that for now and move on with the rest of the features that would make this a to do app. The next thing is the ability to delete tasks, so I added a button to each list item and started writing a function to handle the delete. I had the id for each todo determined in the form component, but it wasn't incrementing the id for each todo because that was within the render function of the component, and the component wasn't rerendering with each submit. So I moved the id to the handleSubmit function in the App component. Still need to figure out how to use it from there...
+
+**Thoughts:** Honestly, I feel kind of lame having somehow gotten things to work in Recipe Box but having so much trouble with this simple to do app. There's still so much I don't understand.
+
+** Link to Work:** [To Do](https://github.com/tymeart/todo/commit/7c47a34d59b74719d43faad03ee50c2244cebdf4)
