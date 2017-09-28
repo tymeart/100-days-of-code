@@ -535,7 +535,7 @@
 
 **Thoughts:** Honestly, I feel kind of lame having somehow gotten things to work in Recipe Box but having so much trouble with this simple to do app. There's still so much I don't understand.
 
-** Link to Work:** [To Do](https://github.com/tymeart/todo/commit/7c47a34d59b74719d43faad03ee50c2244cebdf4)
+**Link to Work:** [To Do](https://github.com/tymeart/todo/commit/7c47a34d59b74719d43faad03ee50c2244cebdf4)
 
 ### Day 53: September 27th, 2017
 
