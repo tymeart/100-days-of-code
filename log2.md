@@ -557,6 +557,6 @@
 
 **Today's Progress:** I started a Twitter clone a few days ago but didn't log it since I hadn't spent full hours on it until today. I have some data hard-coded in the App state to check that components are working. Reorganized that data so each username is a key within the users object, and the reactions are an object of comments, retweets, and likes. Started passing props and building out that the last few components necessary to display a single Tweet.
 
-**Thoughts:** I'm not turning out to be very motivated or productive on this project. It's been so hard to get myself to work on it. Maybe because I'm distracted. Maybe because I'm intimidated by how complex Twitter is. I'm just going to try to finish properly rendering a couple of Tweets and see how I feel after that.
+**Thoughts:** I'm not turning out to be very motivated or productive on this project. It's been so hard to get myself to work on it. Maybe because I'm distracted. Maybe because I'm intimidated by how complex Twitter is. I'm just going to try to finish properly rendering a couple of Tweets and see how I feel after that. For once, I think I really need to learn how to use destructuring, because it'd be really helpful with accessing deeply nested data.
 
 **Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/2d7063fc88a8aa3441caba1bc7e7b8081d62d9fc)
