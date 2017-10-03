@@ -544,3 +544,19 @@
 **Thoughts:** I guess I still don't understand when I should make stateful components vs. functional components(?) and where to have state.
 
 **Link to Work:** [To Do](https://github.com/tymeart/todo/commit/fc47b94e924501c9899deb7c1d679eb255e5e03e)
+
+### Day 54: September 30th, 2017
+
+**Today's Progress:** I started doing the Node School workshopper for learning to think in React, but I abandoned it to try to help my friend debug his Recipe Box during the rest of the event.
+
+**Thoughts:** I felt that the workshopper didn't provide enough information. I didn't know how to access the data since I didn't know what it looked like.
+
+**Link to Work:** [Thinking in React](https://github.com/tymeart/aliases/commit/e42a68b0a3148147fb4dea00eb43a0b03ca0e16c)
+
+### Day 55: October 2nd, 2017
+
+**Today's Progress:** I started a Twitter clone a few days ago but didn't log it since I hadn't spent full hours on it until today. I have some data hard-coded in the App state to check that components are working. Reorganized that data so each username is a key within the users object, and the reactions are an object of comments, retweets, and likes. Started passing props and building out that the last few components necessary to display a single Tweet.
+
+**Thoughts:** I'm not turning out to be very motivated or productive on this project. It's been so hard to get myself to work on it. Maybe because I'm distracted. Maybe because I'm intimidated by how complex Twitter is. I'm just going to try to finish properly rendering a couple of Tweets and see how I feel after that.
+
+**Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/2d7063fc88a8aa3441caba1bc7e7b8081d62d9fc)
