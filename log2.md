@@ -560,3 +560,11 @@
 **Thoughts:** I'm not turning out to be very motivated or productive on this project. It's been so hard to get myself to work on it. Maybe because I'm distracted. Maybe because I'm intimidated by how complex Twitter is. I'm just going to try to finish properly rendering a couple of Tweets and see how I feel after that. For once, I think I really need to learn how to use destructuring, because it'd be really helpful with accessing deeply nested data.
 
 **Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/2d7063fc88a8aa3441caba1bc7e7b8081d62d9fc)
+
+### Day 56: October 3rd, 2017
+
+**Today's Progress:** Included Font Awesome in the project so I could use the icons. Created the last component or two I needed and started styling them to look like an actual Tweet.
+
+**Thoughts:** I'm trying out the one-stylesheet-per-component idea, and it feels weird to have so many files and folders. It's also strange to have SASS with file structure like this. Since there are only a few lines of CSS per component, there's almost no point in having a preprocessor??
+
+**Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/982d3cc16f89b5cc6e2704306adadd9eb6c79563)
