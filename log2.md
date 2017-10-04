@@ -568,3 +568,11 @@
 **Thoughts:** I'm trying out the one-stylesheet-per-component idea, and it feels weird to have so many files and folders. It's also strange to have SASS with file structure like this. Since there are only a few lines of CSS per component, there's almost no point in having a preprocessor??
 
 **Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/982d3cc16f89b5cc6e2704306adadd9eb6c79563)
+
+### Day 57: October 4th, 2017
+
+**Today's Progress:** Spaced out the items in the TweetHeading. Also changed font, font-size, and line-height for the entire app. Added the "analytics" icon in the TweetReactions.
+
+**Thoughts:** I'm glad to have some motivation back. I realized that if I were to make a more complete Twitter app, the Tweet would be its own component, and all of what I have right now would get lumped together into it.
+
+**Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/4389114c6085ad8cddfca5b645bb1591b2735c8f)
