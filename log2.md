@@ -576,3 +576,11 @@
 **Thoughts:** I'm glad to have some motivation back. I realized that if I were to make a more complete Twitter app, the Tweet would be its own component, and all of what I have right now would get lumped together into it.
 
 **Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/4389114c6085ad8cddfca5b645bb1591b2735c8f)
+
+### Day 58: October 5th, 2017
+
+**Today's Progress:** Removed the space between the tweet heading and body. Spaced out the reaction items. Moved almost all the components to the Tweet folder and the CSS into one file. Started working on being able to add tweets by creating an input form.
+
+**Thoughts:** I feel like this project is kinda lame so far because it's not interactive yet...
+
+**Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/e9f9023bb8054ba919aa71b01a6e436e35124fc5)
