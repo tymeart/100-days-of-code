@@ -584,3 +584,11 @@
 **Thoughts:** I feel like this project is kinda lame so far because it's not interactive yet...
 
 **Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/e9f9023bb8054ba919aa71b01a6e436e35124fc5)
+
+### Day 59: October 6th, 2017
+
+**Today's Progress:** I ended up just styling the add tweet form. I had the hardest time trying to get the form the same width as the tweets. There wasn't a set width on the tweets' container, so I added one and was able to match the tweet form to it.
+
+**Thoughts:** Time sure passes quickly when I'm trying to style things.
+
+**Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/faef8156e31e9f835a100c2f7b9a1156b2cd300a)
