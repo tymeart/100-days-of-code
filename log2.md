@@ -592,3 +592,11 @@
 **Thoughts:** Time sure passes quickly when I'm trying to style things.
 
 **Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/faef8156e31e9f835a100c2f7b9a1156b2cd300a)
+
+### Day 60: October 7th, 2017
+
+**Today's Progress:** Changed the input in AddTweetForm to a textarea. Changed the placeholder text color to green in its regular state and gray when focused. Tweaked the width of the tweets and form again. Made the textarea a controlled field.
+
+**Thoughts:** I think I wouldn't mind just tackling CSS for a while.
+
+**Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/a5cec83afe8ca56f5dd8c728559f9fb57cef4dcb)
