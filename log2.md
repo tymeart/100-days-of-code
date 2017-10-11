@@ -600,3 +600,11 @@
 **Thoughts:** I think I wouldn't mind just tackling CSS for a while.
 
 **Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/a5cec83afe8ca56f5dd8c728559f9fb57cef4dcb)
+
+### Day 61: October 8th, 2017
+
+**Today's Progress:** I created a function to update state with the new tweet once the "Tweet" button is clicked.
+
+**Thoughts:** I had to look at an example of how to update nested state with the spread operator to figure out how to write my few lines of code. I'm not sure it works yet.
+
+**Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/9e7591870778200562f87fade6511b6b89b07dd6)
