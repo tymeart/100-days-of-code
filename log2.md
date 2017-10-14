@@ -608,3 +608,11 @@
 **Thoughts:** I had to look at an example of how to update nested state with the spread operator to figure out how to write my few lines of code. I'm not sure it works yet.
 
 **Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/9e7591870778200562f87fade6511b6b89b07dd6)
+
+### Day 62: October 10th, 2017
+
+**Today's Progress:** The list of tweets would rerender and change between the order they're in in state and the order that I actually want them to be in (reverse chronological order). To fix this, I used `reverse()` on a copy of the array of tweets instead of the actual array passed through props. Got new tweets to render in the tweets list when submitted, and I only had to tweak one or two things in `newState`! Added a character limit countdown next to the tweet button, which wasn't as difficult as I thought it would be. Added the icons below the input field.
+
+**Thoughts:** I feel like I got a lot done today. It's hard to continue on to the next thing when I finish one thing.
+
+**Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/ff18d2129b2c62e989bc6f5cb8d282327fb5b96a)
