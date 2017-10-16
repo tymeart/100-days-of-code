@@ -616,3 +616,11 @@
 **Thoughts:** I feel like I got a lot done today. It's hard to continue on to the next thing when I finish one thing.
 
 **Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/ff18d2129b2c62e989bc6f5cb8d282327fb5b96a)
+
+### Day 63: October 14th, 2017
+
+**Today's Progress:** I realized that after submitting a new tweet, the character count stays the same, so I made sure to reset it in the submit handler. Decided to work on the delete feature next and looked into making dropdowns in React. I decided to make my own instead of using a library because I've never made one before and it seems like I'd have to do a bunch of customizing to get it to look like the Twitter one anyway.
+
+**Thoughts:** I've been reluctant to work even after the conference I went to ended. Now that things are settling down, I'm hoping I'll get more done.
+
+**Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/a8aa46b3fa242a0200cda33f51845addbc153276)
