@@ -624,3 +624,11 @@
 **Thoughts:** I've been reluctant to work even after the conference I went to ended. Now that things are settling down, I'm hoping I'll get more done.
 
 **Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/a8aa46b3fa242a0200cda33f51845addbc153276)
+
+### Day 64: October 19th, 2017
+
+**Today's Progress:** Got the tweet options dropdown to show and hide whenever the chevron is clicked. It took a while to get the styling so that the text displayed legibly. It's interesting because basically the only thing you have to do to get a dropdown is set `position: relative` on the container and `position: absolute` on the list of items. Made the chevron icon into a button for accessiblility. Refactored the Dropdown component so that it's not mapping over an array of options. I probably won't get so far as to have different kind of dropdown options, so it's simpler to just have a hardcoded list right now. Did some more styling to the dropdown to make it more resemble the Twitter one.
+
+**Thoughts:** I need to revisit how CSS positioning works. I feel like I sort of got peer pressured into changing my Dropdown component. It works just the same when I map over a list of options; maybe my way was more flexible for future use?
+
+**Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/322ebe4832ab888e03335179a68b81f377d1d2be)
