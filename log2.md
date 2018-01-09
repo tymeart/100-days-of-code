@@ -632,3 +632,13 @@
 **Thoughts:** I need to revisit how CSS positioning works. I feel like I sort of got peer pressured into changing my Dropdown component. It works just the same when I map over a list of options; maybe my way was more flexible for future use?
 
 **Link to Work:** [Twitter Clone](https://github.com/tymeart/twitter-clone/commit/322ebe4832ab888e03335179a68b81f377d1d2be)
+
+-----------------------------------------------
+
+### Day 1: January 8th, 2018
+
+**Today's Progress:** I added a little bit of color to the h1s and h2s and made the header larger. Also changed the bottom border of the header to a dashed line because it looks like little stitches!
+
+**Thoughts:** I really hope I can make it through 100 days this time. Throughout the process of styling my blog so far, it's been a bit of a struggle figuring out where I should make the changes because there are 3 different sources for the CSS. There's the layout stylesheet, the component stylesheet, and the inline styles. I need to look into this more, but so far it seems like that is the order of precedence. The component styles override any template styles, unless the template includes the styles inline?
+
+**Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/0db59038f10637d215790fe1fdac8a256279ec2a)
