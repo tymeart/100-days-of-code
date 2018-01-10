@@ -650,3 +650,11 @@
 **Thoughts:** For some reason I was getting a GraphQL error the first time around and kept trying different things like querying for tags on the index page, but for some reason the tags were coming back undefined. I tried writing a field not named "tag" in case it was a reserved keyword, but I don't think that was it. Suddenly tags worked, and I think it was possibly the gatsby-cli, which I was prompted to update in the middle of all this.
 
 **Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/8ff839d5822d473f457be200660307efac23b2c0)
+
+### Day 3: January 10th, 2018
+
+**Today's Progress:** I wanted the tags to be links, so I made two React components to render a list of links. I also styled them slightly with color and positioned them on the right side.
+
+**Thoughts:** It's kind of sad that I forgot how to render a list in React, but I got it to work...
+
+**Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/63a9f22c42688187ba4f7b31b455205ad5bbafea)
