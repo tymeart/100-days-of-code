@@ -642,3 +642,11 @@
 **Thoughts:** I really hope I can make it through 100 days this time. Throughout the process of styling my blog so far, it's been a bit of a struggle figuring out where I should make the changes because there are 3 different sources for the CSS. There's the layout stylesheet, the component stylesheet, and the inline styles. I need to look into this more, but so far it seems like that is the order of precedence. The component styles override any template styles, unless the template includes the styles inline?
 
 **Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/0db59038f10637d215790fe1fdac8a256279ec2a)
+
+### Day 2: January 9th, 2018
+
+**Today's Progress:** I added tags to my posts and render them, if they exist, below the post on the post page.
+
+**Thoughts:** For some reason I was getting a GraphQL error the first time around and kept trying different things like querying for tags on the index page, but for some reason the tags were coming back undefined. I tried writing a field not named "tag" in case it was a reserved keyword, but I don't think that was it. Suddenly tags worked, and I think it was possibly the gatsby-cli, which I was prompted to update in the middle of all this.
+
+**Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/8ff839d5822d473f457be200660307efac23b2c0)
