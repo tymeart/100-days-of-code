@@ -658,3 +658,11 @@
 **Thoughts:** It's kind of sad that I forgot how to render a list in React, but I got it to work...
 
 **Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/63a9f22c42688187ba4f7b31b455205ad5bbafea)
+
+### Day 4: January 11th, 2018
+
+**Today's Progress:** Made a page that lists all the tags with links to pages for each tag. Since this included making a component for the tags, which was basically what I made yesterday but placed in its on components folder, I decided to replace the components I made yesterday with this one.
+
+**Thoughts:** I spent some time trying to understand the code provided in the guides walking me through this process. It's still a little confusing how the different parts are connected.
+
+**Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/09ce530b64c3667969dcae0989f0741ad13617d4)
