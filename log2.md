@@ -666,3 +666,19 @@
 **Thoughts:** I spent some time trying to understand the code provided in the guides walking me through this process. It's still a little confusing how the different parts are connected.
 
 **Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/09ce530b64c3667969dcae0989f0741ad13617d4)
+
+### Day 5: January 12th, 2018
+
+**Today's Progress:** I spent most of my time trying to figure out how to get data into the layout component. The layout component right now doesn't take any data, but it does have the children parameter, which is a function. I logged it in the console to get a better idea of what it was. I also went ahead and imported the Tags component.
+
+**Thoughts:** All the work of going through the posts and collecting their tags is already done in `gatsby-node.js`, so I was hoping to reuse that code somehow. I'm still really unsure of how to do it.
+
+**Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/2c604b6b11085ce8c82a1ca8bbdb73713812a05a)
+
+### Day 6: January 13th, 2018
+
+**Today's Progress:** Made a GraphQL query inside layouts/index.js to grab the tags from all the posts. When through them and pushed them into an array named `tags`, which is passed to the Tags component. The Tags component is being rendered, but `tags` is empty because the queried tags are also coming up empty.
+
+**Thoughts:** Although it doesn't work yet, I feel like I'm getting really close. I don't know why the tags aren't being returned. I basically copied the query from another place where the posts were being queried, and it looks all right, but it's not working.
+
+**Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/07d98851d9e0d7756014a63696d9fbd0364fadc3)
