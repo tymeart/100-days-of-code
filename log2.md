@@ -682,3 +682,11 @@
 **Thoughts:** Although it doesn't work yet, I feel like I'm getting really close. I don't know why the tags aren't being returned. I basically copied the query from another place where the posts were being queried, and it looks all right, but it's not working.
 
 **Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/07d98851d9e0d7756014a63696d9fbd0364fadc3)
+
+### Day 7: January 14th, 2018
+
+**Today's Progress:** I figured out pretty early today that the reason I wasn't being returned any tags was that I wrote my indexOf conditional incorrectly. I fixed it, and the tags appeared where they were supposed to! Spent the rest of my time trying to style those tag links.
+
+**Thoughts:** I've run into the problem of not understanding styling precedence in React again...
+
+**Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/a8706714aabb6828a96f548e5bb0b933322ea09b)
