@@ -690,3 +690,11 @@
 **Thoughts:** I've run into the problem of not understanding styling precedence in React again...
 
 **Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/a8706714aabb6828a96f548e5bb0b933322ea09b)
+
+### Day 8: January 15th, 2018
+
+**Today's Progress:** I removed one of the div wrappers in the header because it seemed unnecessary. I moved its styles to the h1 tag inside the header, and it still works the same. Increased the size (padding) of the header as well. Added my picture to the About Me sidebar and adjusted the positioning and spacing for larger and smaller viewports.
+
+**Thoughts:** I read a little bit about the different methods of styling in React. The Gatsby docs seemed to advocate for CSS modules mostly, but I guess it's not built into their starter project and the tutorial I followed didn't use CSS modules. I may switch completely over to using CSS modules or some other method later.
+
+**Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/e2fc245fc1f50c4487f99f514572ffbe2d05e711)
