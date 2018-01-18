@@ -698,3 +698,11 @@
 **Thoughts:** I read a little bit about the different methods of styling in React. The Gatsby docs seemed to advocate for CSS modules mostly, but I guess it's not built into their starter project and the tutorial I followed didn't use CSS modules. I may switch completely over to using CSS modules or some other method later.
 
 **Link to Work:** [Sewing blog](https://github.com/tymeart/sewing/commit/e2fc245fc1f50c4487f99f514572ffbe2d05e711)
+
+### Day 9: January 16th, 2018
+
+**Today's Progress:** I included `express-sanitizer` in my project to sanitize user inputs.
+
+**Thoughts:** I spent most of my time trying to figure out which package to use. At first it seemed like none of the ones showing up in the search results were very widely used, but I was just looking at stars and forks on Github. One of them had outdated dependencies. After asking a friend, I realized the most popular one had thousands of downloads. The documentation was very sparse though, so I wonder if I used the sanitize method correctly.
+
+**Link to Work:** [MojiBox](https://github.com/tymeart/mojibox/commit/81e48f7ce1debea01d393c6af7a9a235726c6b2d)
